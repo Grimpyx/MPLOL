@@ -1,4 +1,4 @@
-Tanke är att planera in följande:
+Tanken är att planera in följande:
 1. **200h** på plats (OT) (behöver inte vara lektionstid)
 2. **15h** undervisning som ensam lärare (ET)
 3. **5h** tillsammans med en annan VFU-student (GT)
@@ -10,7 +10,7 @@ När det är **prov**, **inställd lektion**, eller **räkning/repetition NP** s
 Därför: ==Fokusera på egen undervisning med Henrik **TIDIGT**== och lätta på egen undervisning senare veckor.
 
 
-#### Auskultationer
+#### Auskultationsmöjligheter
 AI med **Henrik Johansson** möjligt:
 - Torsdag 12:40-14:00 (1:20) (Nivå 1)
 
@@ -27,3 +27,5 @@ Matematik med **Jonatan Holmström** möjligt:
 - Tisdag 10:10-11:50 (1:40) (Nivå Fortsättning 1c)
 - Onsdag 14:30-16:10 (1:40) (Nivå Fortsättning 1c)
 - Torsdag 10:10-11:50 (1:40) (Nivå Fortsättning 1c)
+
+Behövs fler tillfällen? Prata med andra VFU-studenter på Hulebäck.
