@@ -1,29 +1,47 @@
-# Loggbok #
-#### Vecka ##
-| Dag | Lektion | OT [^1] | ET [^2] | GT [^3] |
-|-----|---------|---------|---------|---------|
+# Loggbok V#
+#### Tid på skolan
+| Dag | Start | Slut | Tid |
+|-----|-------|------|-----|
+|||||
+
+#### Auskultationer
+| Dag | Kurs | Område | Lärare | Tid |
+|-----|------|--------|--------|-----|
 |||||
 |||||
 |||||
 |||||
 |||||
+
+#### Egna lektioner
+| Dag | Kurs | Område | Tid |
+|-----|------|--------|-----|
+|||||
+|||||
+|||||
+|||||
 |||||
 
-#### 💡 Reflektion
-###### ➕ Beskriv det som var **positivt**, bra, konstruktivt med din lektion och ditt lektionsupplägg eller i den situation som har inträffat
+## Reflektioner
+### Auskultationer
+#### AU DAG&LEKTION
+**Fokusområde:** 
+Brödtext
 
-###### ➖ Beskriv det som inte gick bra eller var **negativt**, kritiskt eller ogynnsamt på lektionen eller lektionsupplägget.
-
-###### ❗ Beskriv om du fick någon **ny insikt** eller aha-upplevelse under den aktuella situationen.
-
-###### ❓ Väcktes några frågor, **funderingar**, ovisshet eller tvivel under lektionen eller situationen.
-
-###### 📊 Vad blev resultatet, konsekvenserna eller **utfallet** av lektionen?
-
-###### 👣 Vilka **framtida förändringar** vill du göra? Hur vill du utveckla undervisningen eller lektionsplanen till nästa gång? Hur kan du hantera en liknande situation nästa gång?
+### Egen undervisning
+#### EU DAG&LEKTION
+Brödtext
 
 
+###### 💡 Reflektionsmall egen lektion
+*➕ Beskriv det som var **positivt**, bra, konstruktivt med din lektion och ditt lektionsupplägg eller i den situation som har inträffat.*
 
-[^1]:OT betyder *observationstid*. Omfattar all tid på plats.
-[^2]:ET betyder *ensam undervisningstid*
-[^3]:GT betyder *gemensam undervisningstid*
+*➖ Beskriv det som inte gick bra eller var **negativt**, kritiskt eller ogynnsamt på lektionen eller lektionsupplägget.*
+
+*❗ Beskriv om du fick någon **ny insikt** eller aha-upplevelse under den aktuella situationen.*
+
+*❓ Väcktes några frågor, **funderingar**, ovisshet eller tvivel under lektionen eller situationen.*
+
+*📊 Vad blev resultatet, konsekvenserna eller **utfallet** av lektionen?*
+
+*👣 Vilka **framtida förändringar** vill du göra? Hur vill du utveckla undervisningen eller lektionsplanen till nästa gång? Hur kan du hantera en liknande situation nästa gång?*
