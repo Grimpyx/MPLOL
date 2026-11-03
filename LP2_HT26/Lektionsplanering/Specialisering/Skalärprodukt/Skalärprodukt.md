@@ -1,11 +1,17 @@
 # Skalärprodukt
 ### 0. Syfte
-Varför skalärprodukt?
+Kort introduktion:
+Jesper på tavlan.
+Har tidigare undervisat i matematik 2b på ett litet gymnasie i Borås som heter Ljud- & Bildskolan. 145 elever.
+Motorcyklar och datorspel.
+
+Idag ska vi lära oss om skalärprodukt.
+Varför skalärprodukt? I matten:
 - Mäta vinkel mellan två vektorer
 - Projektioner
 
 I praktiken:
-- Fysik:
+- Fysik "Ett filter":
     - Vindkraft och segling
     - Lutande plan
 - Datorspel:
@@ -19,13 +25,19 @@ Upplägg idag:
 2. Skalärprodukt definition
 3. Cosinussatsen
 4. Cosinussatsen med vektorer
+5. Ett exempel
+6. Eget arbete
+
+Ordningsregler:
+Under genomgången: inga datorer eller telefoner. Är det tydligt att ni fotograferar *tavlan* så är det ok.
+Jag uppmuntrar att ta anteckningar: till exempel viktiga formler.
 
 ### 1. Längden av en vektor. Förkunskap.
 Längden beräknas genom att bygga en rätvinklig triangel av vektorns komposanter, och sedan beräkna hypotenusans längd.
 ![alt text](image-2.png)
 
 ### 2. Rakt på definition. EPA
-$$\vec{u} \cdot \vec{v} = |\vec{u}||\vec{v}|\cos(\alpha)$$
+$$\vec{u} \cdot \vec{v} := |\vec{u}||\vec{v}|\cos(\alpha)$$
 #### Uppgift
 Vad kan vi säga om skalärprodukten? Vad gäller för varje figur?
 $$\vec{u} \cdot \vec{v} < 0 \quad \textbf{eller} \quad \vec{u} \cdot \vec{v} > 0 \quad \textbf{eller} \quad \vec{u} \cdot \vec{v} = 0$$
@@ -51,6 +63,7 @@ Låt $u$ och $v$ vara vektorerna som motsvarar $a$ och $b$. Vi skriver det som $
 $c$ kan skrivas om som $\vec{v} - \vec{u}$ enligt det vi lärde oss om vektorsubtraktion (se s. 213 för mer om räknelagar).
 ![alt text](image-1.png)
 
+*(Från förra lektionens slut minus start)*
 Med vektornotation, hur blir cosinussatsen?
 $$\begin{aligned}
     c^2 &= a^2+b^2-2ab\cos(\alpha) \\
