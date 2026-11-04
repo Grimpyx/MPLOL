@@ -1,0 +1,1 @@
+Definitionsmängd för sin och cos är inte lika snälla som för tangens?

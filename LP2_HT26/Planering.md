@@ -8,12 +8,12 @@ Tanken är att planera in följande:
 - En lite senare (progression)
 
 **Övriga** saker att delta på. * innebär att det är obligatoriskt. För övriga behöver minst två finnas med:
-- Mentorsuppgift * (t.ex. auskultation av utvecklingssamtal, klassråd/mentorsträffar) 
-- Lärarlags- eller ämneslagsmöten * (minst två möten per VFU-period) 
+- ==Mentorsuppgift * (t.ex. auskultation av utvecklingssamtal, klassråd/mentorsträffar)== *Note: utv.s. med Henrik V46* 
+- ==Lärarlags- eller ämneslagsmöten * (minst två möten per VFU-period)== *Note: V49 & V50?*
 - Elevvårdskonferens och åtgärdsprogram, gärna även ta del av dokumentation  
 - Föräldramöte 
 - Kursplanering (t.ex. I ämneslag eller ingående samtal med handledare) 
-- Administration, konstruktion och rättning av prov (matte under VFU1) 
+- ==Administration, konstruktion och rättning av prov (matte under VFU1)== *Note: prov V49, men den kan jag inte vara med på.*
 - Disciplinärende (dvs. vad händer om någon stör eller fuskar på prov, gärna ta del av dokumentation, ej nödvändigtvis närvaro på möte)   
 - Studiebesök (inklusive för- och efterarbete) 
 - Handledning av gymnasiearbete

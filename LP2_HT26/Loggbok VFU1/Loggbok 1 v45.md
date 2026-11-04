@@ -1,25 +1,25 @@
-# Loggbok V#
+# Loggbok V45
 #### Tid på skolan
-| Dag | Start | Slut | Tid |
-|-----|-------|------|-----|
-|||||
+| Dag | Start | Slut | Tid (min) |
+|-----|-------|------|-----------|
+|Ons|8:30|15:20|410|
 
 #### Auskultationer
 | Dag | Kurs | Område | Lärare | Tid |
 |-----|------|--------|--------|-----|
 |Ons (besöksdag)|MaN1|Definitions- och värdemängd|HJ|1.5|
 |Ons (besöksdag)|MaS|Vektorer|HJ|1.5|
-||||||
-||||||
-||||||
+|Ons|MaN1|Prov Kap 2 & 3|HJ|1.5|
+|Tors|AI n1||HJ||
+|Tors|AI||VFU AH||
 ||||||
 
 #### Egna lektioner
 | Dag | Kurs | Område | Tid |
 |-----|------|--------|-----|
-|||||
-|||||
-|||||
+|Ons|MaSpec|Skalärprodukt|1.5|
+|Tors|MaN1|Tangens|1.5|
+|Tors|MaSpec|Vektorer i 3D|1.5|
 |||||
 |||||
 
@@ -54,16 +54,51 @@ Genomgången var översiktlig och det handlade mest om att repetera räkneregler
 
 Formatet var som innan: genomgång -> eget arbete. Trots att det är det traditionella sättet så tilltalar det mig mest, bara att man breddar genomgången på ett sätt som enkluderar EPA, mycket hands on (montessori & bruners enactive), och 5E.
 
+#### AU Onsdag MaN1
+Prov. Två elever var borta, och salen var ändå smockfull: det var fler bord än plats i rummet. Inte bästa provsalen.
+
+Jag noterade att handledaren fortfarande använder E/C/A-poäng på provet, vilket man inte bör göra längre. Jag kan se både fördelar och nackdelar med båda systemen.
+
+Jag frågade om det fanns bedömningsanvisningar, men vid bedömning så "höftar" han. Kan funka med djup erfarenhet inom yrket, men riskerar att bedömning inte blir jämlik.
+
+När handledaren svarade på frågor under provet kändes han väldigt snäll. Ett exempel där uppgiften var att bestämma linjens ekvation från två kända punkter:
+> du får ut m genom att beräkna k, och lägga in en punkt i formeln"
+
+Detta får mig att tänka på en filosofi som jag gillat, men som självklart har sina problem: att se varje prov som en möjlighet för eleven att lära sig. På ett sätt speglades det hos handledaren när han sa att det första betyget i första ämnet inte spelar roll. Vad han å andra sidan menade var att man kan vara hur elak som helst i sin bedömning.
+
 #### AU DAG&LEKTION
 Brödtext
 
 ### Egen undervisning
+
+#### EU Onsdag MaSpec
+På lektionen räknade jag med två vektorer och gav namn på deras koordinater:
+$$2|\vec{u}||\vec{v}|\cos(\alpha)= x_u^2+y_u^2 + x_v^2+y_v^2 - (x_v^2 - 2x_vx_u + x_u^2)-(y_v^2-2y_vy_u+y_u^2)$$
+Jag tyckte det blev mycket att hålla koll på, och då tog jag för givet att eleverna tyckte detsamma. Å andra sidan sa handledaren att det inte såg otydligt ut. Ändringar inför nästa gång:
+1. istället för $u$ och $v$ som subskript (väldigt lika bokstäver) kan använda vektorer $\vec{a}$ och $\vec{b}$ istället. Tänkter att $x_a$ och $x_b$ är bättre.
+2. eller så byter jag ut komponenterna till bokstäverna: $x_u = a$, $x_v = c$. Då blir hela uträkningen tydligare, även fast det kanske är svårare att se vilken vektor som har vilka komponenter.
+
+Beröm jag fick från handledaren:
+> Jag var närvarande, kändes bekväm på "scen". Har kvalitéer som gör mig till en naturlig lärare, åtminstone på just genomgången.
+
+En sak han kom på var att bra att fokusera på "relationellt" lärande vilket han illustrerar som att **involvera elevers intressen i undervisningen**. Det ska jag försöka få in, och det blir desto lättare när jag känt eleverna längre. 
+
+En annan sak han betonade var att **involvera eleverna genom att ställa frågor till klassen**. Det håller uppmärksamheten uppe då de behöver vara redo på att svara på frågor. Jag tog detta ett steg längre och föreslog att **ställa frågor till specifika elever som verkar distraherade**, vilket han tyckte var en bra idé. Men först måste jag lära mig namnen.
+
+**Försiktig med vad jag "höftar" på tavlan**. Jag borde skrivit "svaren" på EPA:n på tavlan när vi gick igenom i helklass. Jag gjorde det för en av fyra bilder, och ett förtydligande vilket ironiskt nog gjorde det rörigare. Jag missade E på EPA:n, men jag tyckte inte det gjorde så mycket skillnad då det är diskussionerna jag värderar mest.
+
+(Tipsade om att introducera enhetscirkeln inför en senare lektion på trigonometri, trots att det egentligen inte dyker upp förrän matte fortsättning 2)
+
+En VFU-student auskulterade:
+![](04112026_adam.jpg)
+
+Jag ska tänka på storleken på tavlan. Jag hade nätt och jämnt tillräckligt med plats, och då hoppade jag lite mellan tavlorna i slutet.
+
 #### EU DAG&LEKTION
 Brödtext
 
 ### Övrigt
 Jag är mest nervös att kunna skapa bra studiemiljö och inspirera respekt. Idag (02/11) blev jag inspirerad när vi pratade med tvåorna: att den första kvarten på eget arbete ska vara helt tyst. Känns som en bra kompromiss mellan stökigt och knäpptyst hela lektionen. Varför inte tyst hela lektionen? Jag vill uppmuntra matematisk diskussion!
-==Fråga:== Är det bäst att lämna snacket åt genomgångens EPA?
 
 ###### 💡 Reflektionsmall egen lektion
 *➕ Beskriv det som var **positivt**, bra, konstruktivt med din lektion och ditt lektionsupplägg eller i den situation som har inträffat.*
