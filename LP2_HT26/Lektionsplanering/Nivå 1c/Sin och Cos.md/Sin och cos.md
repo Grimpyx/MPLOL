@@ -9,6 +9,10 @@ $$\tan(v)=\frac{b}{a} \quad \quad \quad \quad \cos(v)=\frac{b}{c} \quad \quad \q
 
 $$v=\arctan\bigg(\frac{b}{a}\bigg) \quad \quad v=\arccos \bigg( \frac{b}{c}\bigg) \quad \quad v=\arcsin \bigg(\frac{a}{c}\bigg)$$
 
+### Uppgifter
+s. 252-254
+Finns många bra svåra!
+
 ### Enhetscirkel
 [Desmosexperiment](https://www.desmos.com/calculator/dvfjrhoudr)
 
