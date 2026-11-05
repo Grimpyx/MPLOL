@@ -7,6 +7,7 @@ Vi ska snart täcka både linjer OCH plan i rummet och då behöver vi använda 
 1. Räknelagarna i tre dimensioner
 2. Avståndsformeln
 3. Skalärprodukt
+4. Räkna själva
 
 ## Räknelagarna
 Vi ska börja använda ny notation för vektorer.
@@ -54,4 +55,4 @@ s. 225 (5 uppgifter)
 s. 227
 
 ## Exit ticket
-Ge exempel på två *enhetsvektorer* som är *orthogonala*.
+Ge exempel på två *enhetsvektorer* i *3D* som är *orthogonala*.

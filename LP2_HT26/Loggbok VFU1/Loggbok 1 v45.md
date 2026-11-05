@@ -3,24 +3,25 @@
 | Dag | Start | Slut | Tid (min) |
 |-----|-------|------|-----------|
 |Ons|8:30|15:20|410|
+|Tor|7:40|16:00|500|
 
 #### Auskultationer
-| Dag | Kurs | Område | Lärare | Tid |
+| Dag | Kurs | Område | Lärare | Tid (min)|
 |-----|------|--------|--------|-----|
-|Ons (besöksdag)|MaN1|Definitions- och värdemängd|HJ|1.5|
-|Ons (besöksdag)|MaS|Vektorer|HJ|1.5|
-|Ons|MaN1|Prov Kap 2 & 3|HJ|1.5|
-|Tors|AI n1||HJ||
-|Tors|AI||VFU AH||
+|Ons (besöksdag)|MaN1|Definitions- och värdemängd|HJ|90|
+|Ons (besöksdag)|MaS|Vektorer|HJ|90|
+|Ons|MaN1|Prov Kap 2 & 3|HJ|90|
+|Tors|AI n1|EoAI|HJ|90|
+|Tors|MaF1|$e^{kx}$|VFU AH|80|
 ||||||
 
 #### Egna lektioner
-| Dag | Kurs | Område | Tid |
+| Dag | Kurs | Område | Tid (min) |
 |-----|------|--------|-----|
-|Ons|MaSpec|Skalärprodukt|1.5|
-|Tors|MaN1|Tangens|1.5|
-|Tors|MaSpec|Vektorer i 3D|1.5|
-|||||
+|Ons|MaSpec|Skalärprodukt|90|
+|Tors|MaN1|Tangens|90|
+|Tors|MaSpec|Vektorer i 3D|90|
+|Fre|MaN1|Sinus & Cosinus + Enhetscirkeln|90|
 |||||
 
 ## Reflektioner
@@ -66,8 +67,48 @@ När handledaren svarade på frågor under provet kändes han väldigt snäll. E
 
 Detta får mig att tänka på en filosofi som jag gillat, men som självklart har sina problem: att se varje prov som en möjlighet för eleven att lära sig. På ett sätt speglades det hos handledaren när han sa att det första betyget i första ämnet inte spelar roll. Vad han å andra sidan menade var att man kan vara hur elak som helst i sin bedömning.
 
+#### AU Torsdag AI HJ
+**Fokus:** uppstart.
+HJ noterade att det saknades lite inlämningar, så HJ hade repetition av "classroom" för att säga till så att inget glöms.
+
+Som del av kursen kör HJ LIU-kurs "Elements of AI" (EoAI). Ger eleverna möjlighet att samla på sig 2 HP efter gymnasiet. På Antagning.se efter trean. På sommaren kan de sedan göra ett "Valideringstest".
+
+Använder sig av AI-genererad presentation, baserat på innehållet från EoAI. På ett sätt lat, men det passar tematiskt!
+
+Väldigt annorlunda ämne från matematiken, bland annat då denna lektion för det mesta skulle vara arbetsstund.
+
+#### AU Torsdag Ma hos VFU AH
+Klassen applåderar! Mysigt! Även jag fick en applåd! Jisses!
+
+Eleverna har haft prov och är trötta. Kompromiss att kanske kunna sluta lite tidigare. Skönt och ==mänskligt==!
+
+Efter lite försnack, ==inleder med repetition== från lektionen innan. Mycket bra! Kanske även bör lägga till någon repetition från tidigare, för att fånga ÄNNU mer kunskap?
+
+> Svårt att se projektorn tydligt med ljuset i salen. Tror inte de längst bort i salen kan se bra nog.
+
+Bra frågor från eleverna!
+
+Kombinerar projektor och tavlan.
+
+> Formatet på matematiska uttryck på projektorn kanske blir lite förvirrande
+> $$f'(x)=2^x\cdot \frac{lim}{h\rightarrow 0} \frac{2^h-1}{h}$$
+> Lite olagligt att ha en division där limes står? Förslag: använd desmos? LaTeX? Markdown? Hur går det med presentationer?
+
+==AH är bekväm== hela tiden. Om grabben är nervös så märks det inte av alls. Lektionen ser genomtänkt ut, och att det finns erfarenet bakom den.
+
+Jag är imponerad av att han redan inspirerat ett ==öppet klassrumsklimat== där elever öppet vågar svara på frågor och även säger när något gick för fort/var för svårt/för otydligt.
+
+Alla kommer inte kunna hänga med på derivatans definition, så det är snyggt att AH ==sammanfattar== *det som är absolut viktigast att ta med sig*.
+
+Exempel på tavlan. AH kör en variant av EPA, där man själv kan välja E eller P. Sedan helklass. Funkar bra, i alla delar.
+
+> "Mål" med lektionen saknas. Kanske inte är så nödvändigt för genomgång av en deriveringsregel.
+
+När eleverna inte räcker upp handen, så går han runt. ==Uppmärksammar även de som kanske inte vågar fråga efter hjälp==.
+
+
+
 #### AU DAG&LEKTION
-Brödtext
 
 ### Egen undervisning
 
@@ -93,6 +134,24 @@ En VFU-student auskulterade:
 ![](04112026_adam.jpg)
 
 Jag ska tänka på storleken på tavlan. Jag hade nätt och jämnt tillräckligt med plats, och då hoppade jag lite mellan tavlorna i slutet.
+
+#### EU Torsdag MaN1 Tangens
+Testade ett strikt 5E-upplägg, med egen räkning innan Evaluate.
+
+Introducerade ämnet med en enkel uppgift där de däremot saknade verktyg för att lösa. Jag måste vara tydligare om det är *enskilt* eller *diskutera i grupp*.
+
+En elev var en kombiation av understimulerad och lat och valde att spela istället för att delta på lektionen. Handledare hjälpte mig lösa problemet genom att sätta sig enskilt med eleven och gå igenom svårare saker. ==Kanske ha med mig en Matte 3c/MaF1c-bok nästa gång?==
+
+Handledare tyckte det gick väldigt bra. Efter att ha sett mina datorskrivna anteckningar tycker han att jag skulle kunna använda dem som en repetition av föregående lektion. Bra även för de som missade den, sen kunna ge mer enskild undervisning på arbetsstunden för de som varit frånvarande.
+
+Jag glömde min Exit ticket, men handledare föreslog att den tar jag som introduktion på nästa tillfälle. Bra notering att komma ihåg att man kan ta  5E i valfri ordning. 
+
+Handledare föreslog att jag skulle testa hålla i lektionen när han inte är där (bara uppstart, då vi inte får ta närvaro), för att känna på om jag har kontroll på klassen, så att säga. Handledare är övertygad att båda klasserna accepterar mig.
+
+#### EU Torsdag MaSpec Vektorer i rymden
+Inledde med repetition. Kändes *lite* bökigt att använda mina egna anteckningar, men å andra sidan kändes det användbart då jag har med många figurer som kan ta lång tid att rita.
+
+Jag kom ihåg min exit ticket och det var ett effektivt sätt att väva samman lite begrepp.
 
 #### EU DAG&LEKTION
 Brödtext

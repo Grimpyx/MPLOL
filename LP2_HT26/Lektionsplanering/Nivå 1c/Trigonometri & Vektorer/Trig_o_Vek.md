@@ -9,6 +9,8 @@
 3. Trianglars kvot
 4. Tangens definition
 5. Ekvationer med tangens
+6. Arcus Tangens
+7. Räkna själva
 
 ### Syfte
 Användningsområde:
@@ -22,13 +24,14 @@ Användningsområde:
     - Programmera spel i rymden och få planeter att röra sig i en omloppsbana
 
 ### 2 Engage
-Här har ni en uppgift.
+Vi börjar med en uppgift. Gör den enskilt.
 
 > Du står på marken, 40 meter från ett torn. Du tittar upp mot toppen med en vinkel på 70 grader. **Hur högt är tornet?**
 
 (Rita en rät triangel med torn, sätt ut 40m och 60 grader.)
 
-Efter denna lektionen ska ni kunna räkna på sådana här situationer.
+Detta är en typisk uppgift och jag förväntar mig att efter den här lektionen ska ni kunna beräkna den.
+Idag ska vi lära oss det verktyget vi behöver.
 
 ### 3 Explore (tillsammans, helklass)
 (Be eleverna beräkna kvoten åt dig)
@@ -47,7 +50,7 @@ Figurerna är likformiga.
 
 För likformiga figurer vet vi att längdförhållandet är detsamma. **Det är detta vi precis bekräftat**. Trianglarna är likformiga eftersom de har två likadana vinklar: $30^\circ$ och $90^\circ$.
 
-Det är detta vi kallar för *tangens*. Förväxla **inte** detta med (**tangent**).
+Det är detta vi kallar för *tangens*. 
 
 $$\textbf{Def:} \quad \tan(v) := \frac{\text{Motstående katet}}{\text{Närliggande katet}}$$
 
@@ -84,7 +87,8 @@ Kan vi beräkna vinkeln $v$ från längdförhållande?
 ![alt text](image-2.png)
 $$\tan(x)=\frac{4}{3}$$
 
-Jag ser det som en ekvation.
+> Visst är detta tekniskt sett en ekvation
+
 Vid ekvationslösning använder vi *motsatsoperationer*:
 - $\times \quad \text{mot} \quad \div$
 - $+ \quad \text{mot} \quad -$
