@@ -10,9 +10,9 @@
 #### Auskultationer
 | Dag | Kurs | Område | Lärare | Tid (min)|
 |-----|------|--------|--------|-----|
-|Ons (besöksdag)|MaN1|Definitions- och värdemängd|HJ|90|
+|Ons (besöksdag)|Ma1c|Definitions- och värdemängd|HJ|90|
 |Ons (besöksdag)|MaS|Vektorer|HJ|90|
-|Ons|MaN1|Prov Kap 2 & 3|HJ|90|
+|Ons|Ma1c|Prov Kap 2 & 3|HJ|90|
 |Tors|AI n1|EoAI|HJ|90|
 |Tors|MaF1|$e^{kx}$|VFU AH|80|
 ||||||
@@ -21,15 +21,15 @@
 | Dag | Kurs | Område | Tid (min) |
 |-----|------|--------|-----|
 |Ons|MaSpec|Skalärprodukt|90|
-|Tors|MaN1|Tangens|90|
+|Tors|Ma1c|Tangens|90|
 |Tors|MaSpec|Vektorer i 3D|90|
-|Fre|MaN1|Sinus & Cosinus + Enhetscirkeln|90|
+|Fre|Ma1c|Sinus & Cosinus + Enhetscirkeln|90|
 |||||
 
 ## Reflektioner
 ### Auskultationer
 
-#### AU Onsdag besöksdagen MaN1
+#### AU Onsdag besöksdagen Ma1c
 Det första jag noterade var att eleverna hade aluminiumburkar. Jag hade begränsat till flaskor som kan stängas. När läraren gick ut för att hämta en mattebok så spillde en elev dricka på backen och fick gå och städa upp det. Någons block kunde blivit dränkt, eller i värsta fall så kunde en dator gått sönder.
 
 Inget teknikförbud upprätthålls. Vill jag göra det på mina lektioner? Ja, men vet inte om det är rätt att *samla in* telefonerna.
@@ -57,7 +57,7 @@ Genomgången var översiktlig och det handlade mest om att repetera räkneregler
 
 Formatet var som innan: genomgång -> eget arbete. Trots att det är det traditionella sättet så tilltalar det mig mest, bara att man breddar genomgången på ett sätt som enkluderar EPA, mycket hands on (montessori & bruners enactive), och 5E.
 
-#### AU Onsdag MaN1
+#### AU Onsdag Ma1c
 Prov. Två elever var borta, och salen var ändå smockfull: det var fler bord än plats i rummet. Inte bästa provsalen.
 
 Jag noterade att handledaren fortfarande använder E/C/A-poäng på provet, vilket man inte bör göra längre. Jag kan se både fördelar och nackdelar med båda systemen.
@@ -108,13 +108,9 @@ Exempel på tavlan. AH kör en variant av EPA, där man själv kan välja E elle
 
 När eleverna inte räcker upp handen, så går han runt. ==Uppmärksammar även de som kanske inte vågar fråga efter hjälp==.
 
-
-
-#### AU DAG&LEKTION
-
 ### Egen undervisning
 
-#### EU Onsdag MaSpec
+#### EU 261104 Onsdag MaSpec
 På lektionen räknade jag med två vektorer och gav namn på deras koordinater:
 $$2|\vec{u}||\vec{v}|\cos(\alpha)= x_u^2+y_u^2 + x_v^2+y_v^2 - (x_v^2 - 2x_vx_u + x_u^2)-(y_v^2-2y_vy_u+y_u^2)$$
 Jag tyckte det blev mycket att hålla koll på, och då tog jag för givet att eleverna tyckte detsamma. Å andra sidan sa handledaren att det inte såg otydligt ut. Ändringar inför nästa gång:
@@ -133,11 +129,11 @@ En annan sak han betonade var att **involvera eleverna genom att ställa frågor
 (Tipsade om att introducera enhetscirkeln inför en senare lektion på trigonometri, trots att det egentligen inte dyker upp förrän matte fortsättning 2)
 
 En VFU-student auskulterade:
-![](04112026_adam.jpg)
+![](VFU-elevauskultationer/Från/261104_adam.jpg)
 
 Jag ska tänka på storleken på tavlan. Jag hade nätt och jämnt tillräckligt med plats, och då hoppade jag lite mellan tavlorna i slutet.
 
-#### EU Torsdag MaN1 Tangens
+#### EU 261105 Torsdag Ma1c Tangens
 Testade ett strikt 5E-upplägg, med egen räkning innan Evaluate.
 
 Introducerade ämnet med en enkel uppgift där de däremot saknade verktyg för att lösa. Jag måste vara tydligare om det är *enskilt* eller *diskutera i grupp*.
@@ -150,13 +146,13 @@ Jag glömde min Exit ticket, men handledare föreslog att den tar jag som introd
 
 Handledare föreslog att jag skulle testa hålla i lektionen när han inte är där (bara uppstart, då vi inte får ta närvaro), för att känna på om jag har kontroll på klassen, så att säga. Handledare är övertygad att båda klasserna accepterar mig.
 
-#### EU Torsdag MaSpec Vektorer i rymden
-Inledde med repetition. Kändes *lite* bökigt att använda mina egna anteckningar, men å andra sidan kändes det användbart då jag har med många figurer som kan ta lång tid att rita.
+#### EU 261105 Torsdag MaSpec Vektorer i rymden
+Inledde med repetition. Kändes *lite* bökigt att använda mina egna anteckningar, men å andra sidan upplevde jag det som användbart då jag har med många figurer som kan ta lång tid att rita tavlan.
 
 Jag kom ihåg min exit ticket och det var ett effektivt sätt att väva samman lite begrepp.
 
-#### EU DAG&LEKTION
-Brödtext
+#### EU 261106 Fredag Ma1c
+Fortsättning på trigonometri från förra gången. Genomgången var väldigt kort med utökning till sinus och cosinus. Fick problem med en elev som vägrade börja arbeta och bara ville spela. Behövde ge ett ultimatum att ser jag spel på datorn en gång till så kommer jag ta datorn (tidigare lektioner gav jag många möjligheter till skärpning, se onsdagens reflektion). Handledaren var lite mer diplomatisk och satte sig enskilt med eleven. **Idag fungerade det, men vad gör man när man är ensam lärare och behöver hjälpa andra?**
 
 ### Övrigt
 Jag är mest nervös att kunna skapa bra studiemiljö och inspirera respekt. Idag (02/11) blev jag inspirerad när vi pratade med tvåorna: att den första kvarten på eget arbete ska vara helt tyst. Känns som en bra kompromiss mellan stökigt och knäpptyst hela lektionen. Varför inte tyst hela lektionen? Jag vill uppmuntra matematisk diskussion!
