@@ -24,7 +24,10 @@
 |Tors|Ma1c|Tangens|90|
 |Tors|MaSpec|Vektorer i 3D|90|
 |Fre|Ma1c|Sinus & Cosinus + Enhetscirkeln|90|
-|||||
+||||| 
+
+### Förkommentar
+Jag är mest nervös att kunna skapa bra studiemiljö och inspirera respekt. Idag (02/11) blev jag inspirerad när vi pratade med tvåorna: att den första kvarten på eget arbete ska vara helt tyst. Känns som en bra kompromiss mellan stökigt och knäpptyst hela lektionen. Varför inte tyst hela lektionen? Jag vill uppmuntra matematisk diskussion!
 
 ## Reflektioner
 ### Auskultationer
@@ -73,22 +76,22 @@ Detta får mig att tänka på en filosofi som jag gillat, men som självklart ha
 **Fokus:** uppstart och generella intryck.
 HJ noterade att det saknades lite inlämningar, så HJ hade repetition av "classroom" för att säga till så att inget glöms.
 
-Som del av kursen kör HJ LIU-kurs "Elements of AI" (EoAI). Ger eleverna möjlighet att samla på sig 2 HP efter gymnasiet. På Antagning.se efter trean. På sommaren kan de sedan göra ett "Valideringstest".
+Som del av kursen kör HJ LIU-kurs "Elements of AI" (EoAI). Ger eleverna möjlighet att samla på sig 2 HP efter gymnasiet. På Antagning.se efter trean kan de sedan ansöka till kursen, och man kommer alltid in. De kan sedan göra ett "Valideringstest" och få sina HP och ett certifikat.
 
 Använder sig av AI-genererad presentation, baserat på innehållet från EoAI. På ett sätt lat, men det passar tematiskt!
 
-Väldigt annorlunda ämne från matematiken, bland annat då denna lektion för det mesta skulle vara arbetsstund.
+Denna lektionen var väldigt annorlunda ämne från matematiken, bland annat då denna lektion för det mesta skulle vara arbetsstund.
 
 #### AU 261105 Torsdag Ma hos VFU AH
 Klassen applåderar! Mysigt! Även jag fick en applåd! Jisses!
 
-Eleverna har haft prov och är trötta. Kompromiss att kanske kunna sluta lite tidigare. Skönt och ==mänskligt==!
+Eleverna har haft prov och är trötta. AH gör en kompromiss att kanske kunna sluta lite tidigare. Skönt och ==mänskligt==!
 
 Efter lite försnack, ==inleder med repetition== från lektionen innan. Mycket bra! Kanske även bör lägga till någon repetition från tidigare, för att fånga ÄNNU mer kunskap?
 
 > Svårt att se projektorn tydligt med ljuset i salen. Tror inte de längst bort i salen kan se bra nog.
 
-Bra frågor från eleverna!
+Bra och mycket frågor från eleverna!
 
 Kombinerar projektor och tavlan.
 
@@ -153,9 +156,6 @@ Jag kom ihåg min exit ticket och det var ett effektivt sätt att väva samman l
 
 #### EU 261106 Fredag Ma1c
 Fortsättning på trigonometri från förra gången. Genomgången var väldigt kort med utökning till sinus och cosinus. Fick problem med en elev som vägrade börja arbeta och bara ville spela. Behövde ge ett ultimatum att ser jag spel på datorn en gång till så kommer jag ta datorn (tidigare lektioner gav jag många möjligheter till skärpning, se onsdagens reflektion). Handledaren var lite mer diplomatisk och satte sig enskilt med eleven. **Idag fungerade det, men vad gör man när man är ensam lärare och behöver hjälpa andra?**
-
-### Övrigt
-Jag är mest nervös att kunna skapa bra studiemiljö och inspirera respekt. Idag (02/11) blev jag inspirerad när vi pratade med tvåorna: att den första kvarten på eget arbete ska vara helt tyst. Känns som en bra kompromiss mellan stökigt och knäpptyst hela lektionen. Varför inte tyst hela lektionen? Jag vill uppmuntra matematisk diskussion!
 
 ###### 💡 Reflektionsmall egen lektion
 *➕ Beskriv det som var **positivt**, bra, konstruktivt med din lektion och ditt lektionsupplägg eller i den situation som har inträffat.*
