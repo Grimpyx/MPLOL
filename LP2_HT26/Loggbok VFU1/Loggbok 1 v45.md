@@ -2,8 +2,10 @@
 #### Tid på skolan
 | Dag | Start | Slut | Tid (min) |
 |-----|-------|------|-----------|
+|Mån|8:00|10:00|120|
 |Ons|8:30|15:20|410|
 |Tor|7:40|16:00|500|
+|Fre|8:30|15:00|390|
 
 #### Auskultationer
 | Dag | Kurs | Område | Lärare | Tid (min)|
