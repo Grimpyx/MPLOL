@@ -1,12 +1,12 @@
 # Loggbok V#
 #### Tid på skolan
-| Dag | Start | Slut | Tid |
-|-----|-------|------|-----|
+| Dag | Start | Slut | Tid (min) |
+|-----|-------|------|-----------|
 |||||
 
 #### Auskultationer
-| Dag | Kurs | Område | Lärare | Tid |
-|-----|------|--------|--------|-----|
+| Dag | Kurs | Område | Lärare | Tid (min) |
+|-----|------|--------|--------|-----------|
 |||||
 |||||
 |||||
@@ -14,8 +14,8 @@
 |||||
 
 #### Egna lektioner
-| Dag | Kurs | Område | Tid |
-|-----|------|--------|-----|
+| Dag | Kurs | Område | Tid (min) |
+|-----|------|--------|-----------|
 |||||
 |||||
 |||||
@@ -24,14 +24,13 @@
 
 ## Reflektioner
 ### Auskultationer
-#### AU DAG&LEKTION
+#### AU ÅÅMMDD VECKODAG KURS OMRÅDE
 **Fokusområde:** 
 Brödtext
 
 ### Egen undervisning
-#### EU DAG&LEKTION
+#### EU ÅÅMMDD VECKODAG KURS OMRÅDE
 Brödtext
-
 
 ###### 💡 Reflektionsmall egen lektion
 *➕ Beskriv det som var **positivt**, bra, konstruktivt med din lektion och ditt lektionsupplägg eller i den situation som har inträffat.*

@@ -1,4 +1,4 @@
-# Loggbok V45
+# Loggbok 1 V45
 #### Tid på skolan
 | Dag | Start | Slut | Tid (min) |
 |-----|-------|------|-----------|
@@ -129,7 +129,7 @@ En annan sak han betonade var att **involvera eleverna genom att ställa frågor
 
 **Försiktig med vad jag "höftar" på tavlan**. Jag borde skrivit "svaren" på EPA:n på tavlan när vi gick igenom i helklass. Jag gjorde det för en av fyra bilder, och ett förtydligande vilket ironiskt nog gjorde det rörigare. Jag missade E på EPA:n, men jag tyckte inte det gjorde så mycket skillnad då det är diskussionerna jag värderar mest.
 
-(Tipsade om att introducera enhetscirkeln inför en senare lektion på trigonometri, trots att det egentligen inte dyker upp förrän matte fortsättning 2)
+(Tipsade om att introducera enhetscirkeln inför en senare lektion på trigonometri, trots att det egentligen inte dyker upp förrän matte fortsättning 1)
 
 En VFU-student auskulterade:
 ![](VFU-elevauskultationer/Från/261104_adam.jpg)
