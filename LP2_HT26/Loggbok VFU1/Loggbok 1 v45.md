@@ -29,7 +29,7 @@
 ## Reflektioner
 ### Auskultationer
 
-#### AU Onsdag besöksdagen Ma1c
+#### AU 261014 Onsdag besöksdagen Ma1c
 Det första jag noterade var att eleverna hade aluminiumburkar. Jag hade begränsat till flaskor som kan stängas. När läraren gick ut för att hämta en mattebok så spillde en elev dricka på backen och fick gå och städa upp det. Någons block kunde blivit dränkt, eller i värsta fall så kunde en dator gått sönder.
 
 Inget teknikförbud upprätthålls. Vill jag göra det på mina lektioner? Ja, men vet inte om det är rätt att *samla in* telefonerna.
@@ -50,14 +50,14 @@ I slutet fick eleverna ett "överaskningsprov" på innehåll från tidigare lekt
 
 Mitt helhetsintryck var att lektionen kändes för det mesta "traditionell": genomgång -> eget arbete. Det som verkligen stack ut var överaskningsrovet!
 
-#### AU Onsdag besöksdagen MaS
+#### AU 261014 Onsdag besöksdagen MaS
 Liksom lektionen innan kommuniceras inget mål med lektionen. Men läraren är väldigt bekväm och trygg vid tavlan vilket jag tänker borde ge trygghet för eleverna.
 
 Genomgången var översiktlig och det handlade mest om att repetera räkneregler för vektorer. Något jag tolkade som nytt var tanken att bilda en vektor genom att ta "slutpunkt minus startpunkt".
 
 Formatet var som innan: genomgång -> eget arbete. Trots att det är det traditionella sättet så tilltalar det mig mest, bara att man breddar genomgången på ett sätt som enkluderar EPA, mycket hands on (montessori & bruners enactive), och 5E.
 
-#### AU Onsdag Ma1c
+#### AU 261104 Onsdag Ma1c
 Prov. Två elever var borta, och salen var ändå smockfull: det var fler bord än plats i rummet. Inte bästa provsalen.
 
 Jag noterade att handledaren fortfarande använder E/C/A-poäng på provet, vilket man inte bör göra längre. Jag kan se både fördelar och nackdelar med båda systemen.
@@ -69,8 +69,8 @@ När handledaren svarade på frågor under provet kändes han väldigt snäll. E
 
 Detta får mig att tänka på en filosofi som jag gillat, men som självklart har sina problem: att se varje prov som en möjlighet för eleven att lära sig. På ett sätt speglades det hos handledaren när han sa att det första betyget i första ämnet inte spelar roll. Vad han å andra sidan menade var att man kan vara hur elak som helst i sin bedömning.
 
-#### AU Torsdag AI HJ
-**Fokus:** uppstart.
+#### AU 261105 Torsdag AI HJ
+**Fokus:** uppstart och generella intryck.
 HJ noterade att det saknades lite inlämningar, så HJ hade repetition av "classroom" för att säga till så att inget glöms.
 
 Som del av kursen kör HJ LIU-kurs "Elements of AI" (EoAI). Ger eleverna möjlighet att samla på sig 2 HP efter gymnasiet. På Antagning.se efter trean. På sommaren kan de sedan göra ett "Valideringstest".
@@ -79,7 +79,7 @@ Använder sig av AI-genererad presentation, baserat på innehållet från EoAI. 
 
 Väldigt annorlunda ämne från matematiken, bland annat då denna lektion för det mesta skulle vara arbetsstund.
 
-#### AU Torsdag Ma hos VFU AH
+#### AU 261105 Torsdag Ma hos VFU AH
 Klassen applåderar! Mysigt! Även jag fick en applåd! Jisses!
 
 Eleverna har haft prov och är trötta. Kompromiss att kanske kunna sluta lite tidigare. Skönt och ==mänskligt==!
@@ -131,7 +131,7 @@ En annan sak han betonade var att **involvera eleverna genom att ställa frågor
 En VFU-student auskulterade:
 ![](VFU-elevauskultationer/Från/261104_adam.jpg)
 
-Jag ska tänka på storleken på tavlan. Jag hade nätt och jämnt tillräckligt med plats, och då hoppade jag lite mellan tavlorna i slutet.
+Jag ska tänka på storleken på tavlan. Jag hade nätt och jämnt tillräckligt med plats, och då hoppade jag lite mellan tavlorna i slutet. Kanske blir min agenda för stor och tar för mycket plats?
 
 #### EU 261105 Torsdag Ma1c Tangens
 Testade ett strikt 5E-upplägg, med egen räkning innan Evaluate.
