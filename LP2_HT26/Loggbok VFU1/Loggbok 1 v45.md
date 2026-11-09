@@ -155,7 +155,15 @@ Inledde med repetition. Kändes *lite* bökigt att använda mina egna anteckning
 Jag kom ihåg min exit ticket och det var ett effektivt sätt att väva samman lite begrepp.
 
 #### EU 261106 Fredag Ma1c
+**>>> Digitala verktyg**-uppgiften
+
 Fortsättning på trigonometri från förra gången. Genomgången var väldigt kort med utökning till sinus och cosinus. Fick problem med en elev som vägrade börja arbeta och bara ville spela. Behövde ge ett ultimatum att ser jag spel på datorn en gång till så kommer jag ta datorn (tidigare lektioner gav jag många möjligheter till skärpning, se onsdagens reflektion). Handledaren var lite mer diplomatisk och satte sig enskilt med eleven. **Idag fungerade det, men vad gör man när man är ensam lärare och behöver hjälpa andra?**
+
+Jag avbröt räknandet tidigt för att introducera enhetscirkeln. Jag byggde mitt egna [verktyg](https://www.desmos.com/calculator/dvfjrhoudr) och använde det och tavlan för att. Här hade jag varit väldigt slarvig med planeringen eftersom jag och handledaren kom på dagen innan att detta kunde vara ett bra moment. Jag kände därför att jag saknade struktur i genomgången, även fast det gick ganska bra. Men jag är säker på att det kunde ha gått bättre, då jag upplevde att sättet jag introducerade det (rätvinklig triangel hypotenusa $1$, härled att $x=\cos(v)$ och $y=\sin(v)$) inte kändes generaliserbart för vinklar större än $90^\circ$. Jag har inte bestämt mig hur man vill göra det bäst.
+
+Det är en balansgång i hur man bör introducera enhetscirkeln, då det egentligen inte ingår i kursen. Ändå kände jag att jag borde kopplat en lite mer utförlig elevaktivitet där eleverna själva kunde använda verktyget för att bestämma $\cos$/$\sin$/$\tan$ för vissa vinklar. Jag tänker mig att detta skulle kunna starta upp en  senare lektion.
+
+Vad som kändes väldigt trevligt var att en elev stannade över en bra tid in på lunchen för att eleven var så nyfiken på enhetscirkeln. Även om jag inte var helt nöjd, så fångade jag verkligen intresset hos åtminstone en elev! :)
 
 ###### 💡 Reflektionsmall egen lektion
 *➕ Beskriv det som var **positivt**, bra, konstruktivt med din lektion och ditt lektionsupplägg eller i den situation som har inträffat.*
