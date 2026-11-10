@@ -1,13 +1,13 @@
-# Loggbok V#
+# Loggbok V46
 #### Tid på skolan
 | Dag | Start | Slut | Tid (min) |
 |-----|-------|------|-----------|
-|||||
+|Ons||||
 
 #### Auskultationer
 | Dag | Kurs | Område | Lärare | Tid (min) |
 |-----|------|--------|--------|-----------|
-|||||
+|Ons|Admin|Utvecklingssamtal|HJ|???|
 |||||
 |||||
 |||||
@@ -16,11 +16,8 @@
 #### Egna lektioner
 | Dag | Kurs | Område | Tid (min) |
 |-----|------|--------|-----------|
-|||||
-|||||
-|||||
-|||||
-|||||
+|Ons|Ma1c|Vektorer intro.|90|
+|Fre|Ma1c|Vektorer forts.|90|
 
 ## Reflektioner
 ### Auskultationer

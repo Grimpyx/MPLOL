@@ -3,3 +3,5 @@ Komposanter
 Sedan använda 
 
 Fysikexempel: kombinera trigonometri med fysik
+
+![alt text](image.png)
