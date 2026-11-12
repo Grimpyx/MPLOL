@@ -5,6 +5,7 @@
 - Avgöra om två vektorer är lika långa
 - Avgöra om två vektorer är parallella
 - Förstå motsatsvektorer
+- Kombinera vektorer
 
 ### Agenda
 1. Vad är en vektor?

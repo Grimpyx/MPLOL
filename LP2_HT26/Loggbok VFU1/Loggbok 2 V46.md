@@ -7,7 +7,7 @@
 #### Auskultationer
 | Dag | Kurs | Område | Lärare | Tid (min) |
 |-----|------|--------|--------|-----------|
-|Ons|Admin|Utvecklingssamtal|HJ|???|
+|Ons|Admin|Utvecklingssamtal|HJ|150|
 |||||
 |||||
 |||||
@@ -27,7 +27,15 @@ Brödtext
 
 ### Egen undervisning
 #### EU ÅÅMMDD VECKODAG KURS OMRÅDE
-Brödtext
+Jag kände mig inte helt nöjd med dagens lektion.
+
+Upplevde min introduktion var bra. Jag samlade in telefoner, men tvingade inte till några bestämda platser eftersom jag inte själv visste platserna.
+
+Däremot borde jag varit mycket mer utförlig på längden av en vektor. Jag trodde eleverna skulle enklare kunna applicera pythagoras sats. Många elever ställde samma fråga sen under arbetspasset, och jag tyckte jag hanterade situationen bra: avbröt arbetsstunden för att visa en gång till med exempel.
+
+Min exit ticket fungerade bra. Några elever klarade det direkt, andra föll i min fälla, så fick de klura vidare. Metoden att de skulle räcka upp handen fungerade för att stämma av upplevde jag var bra, men det är nästan omöjligt att hinna godkänna 30 personer på 10 minuter.
+
+Jag körde ingen repetition från förra lektionen, eftersom handledaren höll den och jag inte var där. I efterhand tänker jag att jag ändå borde haft typ en fråga, eller kort grej på genomgången.
 
 ###### 💡 Reflektionsmall egen lektion
 *➕ Beskriv det som var **positivt**, bra, konstruktivt med din lektion och ditt lektionsupplägg eller i den situation som har inträffat.*
