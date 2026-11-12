@@ -1,24 +1,30 @@
+##### Sammanfattning
+Mycket handlar om elevens individuella behov och situation. Centralt är elevens välmående. Istället för att ställa frågorna på utvecklingssamtalet gicks det igenom det eleven tidigare svarat i en blankett. Det sparar tid under mötet, men jag kan också tänka mig att eleven kanske inte alltid är helt öppen med föräldern där, så det verkar vara en rimlig lösning.
+
+Där eleven har problem letar handledaren efter konsensus över vad som är nästa steg. Återkoppligsmetoden är god.
+
+Jag har insett att vissa elever verkar mer sanningsenliga än andra. En av eleverna upplevde jag använde sig av bortförklaringar och rationaliseringar för att "komma undan" ansvar och ansträngning. När man får en sådan här "hunch", vad gör man?
+
 ##### Elev 1
 **Fokus:** rådande situation för eleven: spelar mycket på lektionerna, hur kan vi sätta stopp för det?
 **Fokus 2:** hur skolan/handledare har sina utvecklingssamtal.
 
-Frågar om välmående.
 Elev har fyllt i **två** enkäter:
-1:
-- Ambitionsnivå, betygsförhoppningar
+1: handlar om ambitionsnivå i de olika kurserna de går, betygsförhoppningar
 
-2:
-- Pigg mår bra
+2: välmående och rutin:
+- pigg, mår bra
+- träning
 - fruskost/lunch/sånt
 - fritidsnöjdhet
 - stress
 - städar undan efter sig
 
-Vill ha underskrift på 2, för att få spara uppgiften, som ett sätt att fånga otrygghet/annat tidigt.
+Vill ha underskrift på enkät 2. Krävs för att få spara uppgiften. Används som ett sätt att fånga otrygghet/annat tidigt, och som intyg att föräldrarna har tagit del av.
 
 Diskuterar provresultat i olika kurser.
 
-Diskuterar en händelse där en lärare glömt ändra redigeringsåtkomst så att eleverna hade skrivit i dokumentet och läraren hade gått och sagt "nu blir det ingen lektion".
+Diskuterar en händelse där en lärare glömt ändra redigeringsåtkomst så att eleverna hade skrivit i dokumentet och läraren hade gått och sagt "nu blir det ingen lektion". Handledaren beskriver det som omoget beteende från hela klassen, men markerar att trygghet och öppenhet är väldigt hög i klassen. De är sams och snälla.
 
 Eleven är övertygad att eleven inte behöver plugga, att saker är för lätt. Föräldrarna är oroade över att studieteknik försvinner, men eleven säger att det kommer när det behövs pluggas.
 
@@ -51,19 +57,12 @@ Oproblematisk elev på hög nivå. Tar ansvar för sig själv. Hög ambition, g�
 ##### Elev 4
 Eleven har okända medicinska problem (inte placebo), så det är mycket frånvaro. Trots det bra resultat. Snack om framtiden, familj har förhoppningar att det löser sig.
 
-Snack om inriktningar.
+Snack om inriktningar/profil.
 
-Dubbla böcker, för att säkra att det går att jobba hemma de gånger vi har
+Handledare föreslår dubbla böcker, för att säkra att det går att jobba hemma de dagar eleven behöver stanna hemma.
 
 ****
 ##### Elev 5
 Snack om sömn. Trivsel efter skolbyte.
 
-
-
-### Övergripande tankar
-Mycket handlar om elevens individuella behov och situation. Centralt är elevens välmående. Istället för att ställa frågorna på utvecklingssamtalet gicks det igenom det eleven tidigare svarat i en blankett. Det sparar tid under mötet, men jag kan också tänka mig att eleven kanske inte alltid är helt öppen med föräldern där, så det verkar vara en rimlig lösning.
-
-Där eleven har problem letar handledaren efter konsensus över vad som är nästa steg. Återkoppligsmetoden är god.
-
-Jag har insett att vissa elever verkar mer sanningsenliga än andra. En av eleverna upplevde jag använde sig av bortförklaringar och rationaliseringar för att "komma undan" ansvar och ansträngning. När man får en sådan här "hunch", vad gör man?
+Inget nytt här
