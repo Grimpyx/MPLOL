@@ -2,14 +2,13 @@
 #### Tid på skolan
 | Dag | Start | Slut | Tid (min) |
 |-----|-------|------|-----------|
-|Ons||||
+|Ons|8:30|15:20|410|
+|Fre|8:30|||
 
 #### Auskultationer
 | Dag | Kurs | Område | Lärare | Tid (min) |
 |-----|------|--------|--------|-----------|
 |Ons|Admin|Utvecklingssamtal|HJ|150|
-|||||
-|||||
 |||||
 |||||
 
@@ -105,6 +104,8 @@ Däremot borde jag varit mycket mer utförlig på längden av en vektor. Jag tro
 Min exit ticket fungerade bra. Några elever klarade det direkt, andra föll i min fälla, så fick de klura vidare. Metoden att de skulle räcka upp handen fungerade för att stämma av upplevde jag var bra, men det är nästan omöjligt att hinna godkänna 30 personer på 10 minuter.
 
 Jag körde ingen repetition från förra lektionen, eftersom handledaren höll den och jag inte var där. I efterhand tänker jag att jag ändå borde haft typ en fråga, eller kort grej på genomgången.
+
+Ville egentligen spela in den här lektionen, men handledaren var sen och jag fick börja lektionen själv.
 
 ### Egen undervisning
 #### EU ÅÅMMDD VECKODAG KURS OMRÅDE
