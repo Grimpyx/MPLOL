@@ -52,6 +52,7 @@ Multiplikation gick lite fortare.
 Ingen exit ticket.
 
 **Uppgifter:**
+Elever jobbar i boken, som "vanligt".
 
 #### AU 261111 Onsdag Utvecklingssamtal
 Följande kommer från ``Utvecklingssamtal.md``.
@@ -142,6 +143,38 @@ Ville egentligen spela in den här lektionen, men handledaren var sen och jag fi
 
 ### Egen undervisning
 #### EU ÅÅMMDD VECKODAG KURS OMRÅDE
+Mina anteckningar från diskussion med ML:
+> Tydliggöra att det är multiplikation med skalär
+>
+> Visa DAGENS agenda också?
+>
+> Interagera mer med eleverna under
+> Typ introduktionsuppgift som är mer grundad i verkligheten?
+>
+> Säger jag något begrepp som är svårt, var noga med att förklara dess betydelse.
+>
+> Vid EPA/enskilt - säg att rita upp, använda block, räkna
+> Få eleverna att skriva/rita mer.
+>
+> - Låta elever räcka upp handen: "Hur mycket"
+>
+> - Mer bestämd när jag säger till ljudvolym. Kanske hålla ögonkontakt. Låt fullfölja.
+>
+> - För mycket med Michael. Hade varit bättre att introducera vektorer, och sedan hänvisa till boken. 
+>
+> - Vet ni vad ni ska göra? Har alla kommit igång?
+> 
+> - Trycka på att ha egen räknare.
+> 
+> 
+> Tre viktigaste tipsen för att hålla studiero/få uppmärksamhet från klassen:
+> 1. Fullfölja det man säger. Säg det mer bestämt. VÅGA inte vara polare
+> 2. Jag har bra röst för det, men vill jag inte höja rösten så kan man köra som wanmin, eller klappa "kvart över elva"
+> 3. Strategisk med raster
+>
+> Ordningsregler. Kom överens med klassen om när man får gå på toa, så kan man minska mängden spring.
+>
+> Om telefoner "försvinner" från insamlingen under lektioner, så kan man efter genomgång ta telefoner fram till sig.
 
 ###### 💡 Reflektionsmall egen lektion
 *➕ Beskriv det som var **positivt**, bra, konstruktivt med din lektion och ditt lektionsupplägg eller i den situation som har inträffat.*
