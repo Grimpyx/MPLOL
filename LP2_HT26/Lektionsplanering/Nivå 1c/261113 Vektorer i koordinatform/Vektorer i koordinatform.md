@@ -1,4 +1,5 @@
 # Vektorer fortsättning
+Lektionens tid: ``9:45-11:20``.
 ### Mål
 - Förstå komposantuppdelning
 - Kunna räkna med vektorer (kombinera algebraiskt)
@@ -6,7 +7,6 @@
 ### Agenda
 1. Komposantindelning med enhetsvektorer
 2. Härledning av $(+,-,\cdot)$
-3. Koppla till trigibinetru
 
 ### Inledande fråga
 > Teacher's note: Mittersta tavlan
@@ -28,11 +28,12 @@ Därför ska vi nu formalisera tre räkneregler för vektorer.
 
 Jag visade er hur man skriver en vektor på koordinatform som $\vec{v}=(\Delta x, \Delta y)$ Men vad betydde egentligen detta? $\Delta x$ är *steg* i sidled. Men, vad är egentligen ett *steg*?
 
-Ett sätt att se på ett steg är som en liten vektor med längden 1 som rör sig i *positiv* riktning: en *enhetsvektor* 
+Ett sätt att se på ett steg är som en liten vektor med längden 1 som rör sig i *positiv* riktning: en *enhetsvektor*.
+![alt text](image-3.png)
 
 > Teacher's note: Dela upp första tavlan i två. Första halvan
 
-Vi delar upp två vektorer och sådana steg och ser hur det blir. Första vektorn:
+Vi delar upp två vektorer och sådana steg och ser hur det blir. Första vektorn skriven som en summa av steg:
 ![alt text](image-1.png)
 $$\text{Koordinatform:} \quad (2,3) $$
 
@@ -86,7 +87,7 @@ $$\text{alltså: } \quad k(a,b) = (k\cdot a, k\cdot b)$$
 s.269-270
 Vill ni ha extra utmaning så vill jag att ni dyker djupare in på temauppgifterna 271-273. Bra förberedelse inför fysiken i vår.
 
-Vi avbryter 10 minuter tidigare för en exit ticket.
+Vi avbryter 10 minuter innan vi slutar för en exit ticket.
 
 ### Exit ticket
 > Inga miniräknare.

@@ -3,14 +3,13 @@
 | Dag | Start | Slut | Tid (min) |
 |-----|-------|------|-----------|
 |Ons|8:30|15:20|410|
-|Fre|8:30|||
+|Fre|8:30|15:00|390|
 
 #### Auskultationer
 | Dag | Kurs | Område | Lärare | Tid (min) |
 |-----|------|--------|--------|-----------|
 |Ons|Admin|Utvecklingssamtal|HJ|150|
-|||||
-|||||
+|Fre|Ma1c||SI|70|
 
 #### Egna lektioner
 | Dag | Kurs | Område | Tid (min) |
@@ -20,6 +19,40 @@
 
 ## Reflektioner
 ### Auskultationer
+#### AU 261311 Fredag Vektorer på koordinatform
+**Fokus 1:** hur skiljer det sig med naturklass?
+**Fokus 2:** området är samma som jag höll. Hur skiljer det sig med åt ?
+
+**Egen sammanfattning/takeaways:**
+Jag har ännu inte auskulterat en annan anställd lärare i matematik. Ännu bättre är det samma lektion **som jag precis höll**. SI lägger upp lektionens genomgång som mycket aktiviteter. SI går runt under tiden och stämmer av där det finns luckor. Entry-ticketen inleder hela lektionens aktivitet: koordinatsystemet där vi ska lägga in två vektorer  $\vec{v_1}$ och $\vec{v_2}$ och sedan rita in $\vec{v_1} + \vec{v_2}$, $\vec{v_1} - \vec{v_2}$, sedan $3\vec{v_1}=3(2,3)$. SI använder geogebra jämsides för att ge lite live-demo.
+
+**Intro med Entry Ticket:**
+Tydlig med bestämda platser.
+Entry ticket. Delar ut svarspapper: koordinatsystem. "Skriv vektorerna i figuren på koordinatform"
+Tydlig med vad som komma skall: både muntligt och med agenda på tavlan.
+Skiljer även på multiplikation mellan vektorer.
+Eleverna är nästan helt knäpptysta! Waow!
+EPA: enskilt, jämföra med grannen, 
+SI går runt och lyssnar, ger lite recap på föregående lektion där det behövs.
+Efter de pratat ihop sig tar det lite tid att få tillbaka uppmärksamheten.
+
+**Fortsättning:**
+Ger en muntlig recap av koordinatform. Jag gillade mitt sätt att använda $(\Delta x, \Delta y)$, SI använder sig mer av "om vi är i origo är det där pilen pekar, ELLER från startpunkten".
+Använder begreppet "parallellförflyttning" som jag aldrig hört. Men det innebär att vi får flytta en vektor, så länge vi inte vrider eller ändrar längd.
+Använder liknande analogi till vad jag gjorde i form av att vektorn $(x,y)$ är en förflyttning i x-led och y-led.
+OBS: Det verkar so att de har två lektioner, men lektion 1 är en enkel introduktion, och denna lektionen handlar mer om att kombinera.
+Vid vektoraddition så placerar SI vektorerna ovanför varandra för att göra den parvisa additionen tydlig.
+Intressant nog går SI igenom addition med siffror INNAN de har sett "parallellogrammetoden". Skiljer metoderna som Algebraisk vs Grafisk (parallellog.) vs Grafisk (polygonmetoden).
+
+Fortsätter på samma sätt med subtraktion.
+$\vec{v_1} - \vec{v_2}$ med koordinaträkning, sedan grafisk metod. (Noterar att det tar en del tid att återställa tystnaden). "Vad är d *egentligen*" otydlig fråga. SI gör samma som jag med $\vec{v_1} - \vec{v_2} = \vec{v_1} + \vec{-v_2}$
+
+Multiplikation gick lite fortare.
+
+Ingen exit ticket.
+
+**Uppgifter:**
+
 #### AU 261111 Onsdag Utvecklingssamtal
 Följande kommer från ``Utvecklingssamtal.md``.
 ****
