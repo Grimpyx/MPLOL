@@ -9,7 +9,7 @@
 | Dag | Kurs | Område | Lärare | Tid (min) |
 |-----|------|--------|--------|-----------|
 |Ons|Admin|Utvecklingssamtal|HJ|150|
-|Fre|Ma1c||SI|70|
+|Fre|Ma1c|Räkna med vektorer|SI|70|
 
 #### Egna lektioner
 | Dag | Kurs | Område | Tid (min) |
@@ -62,7 +62,7 @@ Mycket handlar om elevens individuella behov och situation. Centralt är elevens
 
 Där eleven har problem letar handledaren efter konsensus över vad som är nästa steg. Återkoppligsmetoden är god.
 
-Jag har insett att vissa elever verkar mer sanningsenliga än andra. En av eleverna upplevde jag använde sig av bortförklaringar och rationaliseringar för att "komma undan" ansvar och ansträngning. När man får en sådan här "hunch", vad gör man?
+Jag har insett att vissa elever verkar mer sanningsenliga än andra. En av eleverna upplevde jag använde sig av bortförklaringar och rationaliseringar för att "komma undan" ansvar och ansträngning. När man får en sådan här "hunch", vad gör man? Eftersom man inte vet att man har rätt så känns det olämpligt att konfrontera eleven direkt. Jag lutar mot ett mer empatiskt/diplomatiskt, men samtidigt måste det komma fram att beteendet inte är ok.
 
 ##### Elev 1
 **Fokus:** rådande situation för eleven: spelar mycket på lektionerna, hur kan vi sätta stopp för det?
