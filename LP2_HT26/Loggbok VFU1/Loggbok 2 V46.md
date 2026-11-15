@@ -124,11 +124,11 @@ Handledare föreslår dubbla böcker, för att säkra att det går att jobba hem
 ##### Elev 5
 Snack om sömn. Trivsel efter skolbyte.
 
-Inget nytt här
+Inget nytt här.
 
 
 ### Egen undervisning
-#### EU ÅÅMMDD VECKODAG KURS OMRÅDE
+#### EU 261113 Onsdag Ma1c Vektorer introduktion
 Jag kände mig inte helt nöjd med dagens lektion.
 
 Upplevde min introduktion var bra. Jag samlade in telefoner, men tvingade inte till några bestämda platser eftersom jag inte själv visste platserna.
@@ -137,12 +137,14 @@ Däremot borde jag varit mycket mer utförlig på längden av en vektor. Jag tro
 
 Min exit ticket fungerade bra. Några elever klarade det direkt, andra föll i min fälla, så fick de klura vidare. Metoden att de skulle räcka upp handen fungerade för att stämma av upplevde jag var bra, men det är nästan omöjligt att hinna godkänna 30 personer på 10 minuter.
 
-Jag körde ingen repetition från förra lektionen, eftersom handledaren höll den och jag inte var där. I efterhand tänker jag att jag ändå borde haft typ en fråga, eller kort grej på genomgången.
+Jag körde ingen repetition från förra lektionen, eftersom handledaren höll den och jag inte var där. Av någon anledning tänkte jag inte på att jag bara kunde kollat planeringen och utgått från det... ibland får hjärnan släpp!
 
-Ville egentligen spela in den här lektionen, men handledaren var sen och jag fick börja lektionen själv.
+Ville egentligen spela in den här lektionen, men handledaren var sen och jag fick börja lektionen själv. Jag blir glad att handledaren har så högt förtroende att han bara släpper allt.
 
-### Egen undervisning
-#### EU ÅÅMMDD VECKODAG KURS OMRÅDE
+#### EU 261113 Fredag Ma1c Vektorer på koordinatform (besök från ML)
+Inte mycket att säga om denna lektionen egentligen. Jag tyckte det gick bra, men auskultationen hos SI fick mig att vilja bygga in mer digitala verktyg. Problemet var att salen kändes inte anpassad för det, så här får jag spå vidare. Sen vill jag gärna att eleverna använder datorerna och leker runt i verktygen jag skapar (typ [detta](https://www.desmos.com/geometry/ipnbqh4jml). Planerar in detta som en repetition nästa lektion)
+
+##### Diskussion med ML
 Mina anteckningar från diskussion med ML:
 > Tydliggöra att det är multiplikation med skalär
 >
