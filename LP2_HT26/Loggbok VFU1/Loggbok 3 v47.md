@@ -82,11 +82,19 @@ Jag fick en idé på uppgift i min egen undervisning: att skapa ett produktionfl
 #### AU 261116 Måndag Matematik (Hulebäck)
 **Fokusområde 1:** Elevaktivitet, hur sköter handledaren det?
 **Fokusområde 2:** Hur tar handledaren tillbaka uppmärksamheten (efter typ EPA)?
+Handledarens strategi för dagens lektion: låter eleverna börja räkna först. Efteråt känner vi av elevernas nivå och kanske tar något på tavlan spontant.
 
+Inleder lektionen stenhårt: bestämda platser. Börjar inte lektionen innan alla har satt sig rätt. Sedan säger han att man måste plocka undan sin dator. Sist att inga telefoner *framme*.
+
+Ingen planerad elevaktivitet.
+Jag och handledaren är ganska lika när det gäller att samla uppmärksamheten. Pratar högt. Vi skiljer oss i att jag brukar väntar in längre.
+
+Handladaren avbröt arbetsstunden för att gå igenom trigonometri en extra gång. Även arcus. Går faktiskt in på enhetscirkeln (egentligen inte så lämpligt enligt mitt tycke). $\tan(v)=\frac{\sin(v)}{\cos(v)}$ och även trigg-ettan. Parallellförflyttning av vektorer. Parallellogram-/polygonmetoden. Komposantindelning av vektorer. Addera, subtrahera koordinatform.
+^ allt går ganska fort. Svårt för elever att följa som inte redan har koll
 
 #### AU 261116 Måndag Mentorstid (Hulebäck)
 **Fokusområde:** Skillnad mellan LBS och Hulebäck
-
+Precis som på LBS har de på Hulebäck ett provschema. Skillnaden i innehåll var inte särskilt annorlunda. Hade förväntat mig om att han skulle ta upp något gällande hulekvällarna nästa vecka. Syftet med mentorstiderna är att ge eleverna information. Provschemat finns för att säga till så alla elever är med på inlämningar och prov, och för att säga till så lärare inte bokar in mer än två examinationer på en vecka.
 
 #### AU ÅÅMMDD VECKODAG KURS OMRÅDE
 **Fokusområde:** 
