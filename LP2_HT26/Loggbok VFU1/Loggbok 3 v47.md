@@ -2,15 +2,15 @@
 #### Tid på skolan
 | Dag | Start | Slut | Tid (min) |
 |-----|-------|------|-----------|
-|Mån|8:50|||
+|Mån|8:50|16:00|430|
 
 #### Auskultationer
 | Dag | Kurs | Område | Lärare | Tid (min) |
 |-----|------|--------|--------|-----------|
-|Mån|Mentorstid||JL|35|
-|Mån|Teknik n1||JL|85|
+|Mån|Mentorstid|-|JL|35|
+|Mån|Teknik n1|Mimic-modellering|JL|85|
 |Mån|Ma1c|Repetition|HJ|90|
-|Mån|Mentorstid||HJ||
+|Mån|Mentorstid|-|HJ|45|
 ||||||
 ||||||
 ||||||
