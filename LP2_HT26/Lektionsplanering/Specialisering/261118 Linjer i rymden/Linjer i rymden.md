@@ -2,9 +2,12 @@
 s.228
 
 ## Agenda
-1. Vektorform
-2. Parameterform
-3. Skärande linjer
+1. Entry ticket
+2. Vektorform
+3. Parameterform
+4. Skärande linjer
+5. Uppgifter
+6. Exit ticket
 
 ## Entry ticket
 > Vad är vinkeln mellan vektorerna

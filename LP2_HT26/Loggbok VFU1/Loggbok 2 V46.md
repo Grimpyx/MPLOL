@@ -128,7 +128,7 @@ Inget nytt här.
 
 
 ### Egen undervisning
-#### EU 261113 Onsdag Ma1c Vektorer introduktion
+#### EU 261111 Onsdag Ma1c Vektorer introduktion
 Jag kände mig inte helt nöjd med dagens lektion.
 
 Upplevde min introduktion var bra. Jag samlade in telefoner, men tvingade inte till några bestämda platser eftersom jag inte själv visste platserna.
