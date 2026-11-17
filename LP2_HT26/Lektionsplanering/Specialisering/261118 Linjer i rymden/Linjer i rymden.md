@@ -7,6 +7,23 @@ s.228
 3. Skärande linjer
 
 ## Entry ticket
+> Vad är vinkeln mellan vektorerna
+> $$\vec{a}=\begin{bmatrix}0\\-2\end{bmatrix} \quad \vec{b}=\begin{bmatrix}\sqrt{3}\\1\end{bmatrix}$$
+> ![alt text](image-2.png)
+> ***
+> Lösning:
+> Skalärprodukt kan användas för att beräkna vinkel mellan två vektorer.
+> $$\vec{a}\cdot \vec{b}=|\vec{a}||\vec{b}|\cos\theta \\
+\frac{\vec{a}\cdot \vec{b}}{|\vec{a}||\vec{b}|}=\cos\theta \\
+\theta = \arccos\bigg(\frac{\vec{a}\cdot \vec{b}}{|\vec{a}||\vec{b}|}\bigg)$$
+> ***
+> $$\vec{a}\cdot \vec{b}=0\cdot \sqrt3 + (-2)\cdot 1 = -2\\
+|\vec{a}||\vec{b}| = \sqrt{\sqrt3^2+1^2} \sqrt{(-2)^2+\sqrt0^2}=2\cdot2 \\
+\Rightarrow\cos\theta=\frac{-2}{4}=-\frac{1}{2}$$
+> $\theta=120^\circ$. Kan motiveras med enhetscirkeln.
+## Linjer
+Vad är en linje?
+[Desmos](https://www.desmos.com/3d/hstza6ckqr)
 
 ## Vektorform
 Inleda med en enhetsvektor gånger parameter t
@@ -15,8 +32,6 @@ Tänk er en riktningsvektor $\vec{r}$ som börjar i origo. Om vi multiplicerar m
 $$L(t)=t\vec{r}$$
 > Exempel:
 > $$L(t)=t\begin{bmatrix}\frac{1}{\sqrt{2}}\\\frac{1}{\sqrt{2}}\\0\end{bmatrix}$$
-
-==Visa på desmos.==
 
 Problemet är att vi endast utgår från origo. Hur får vi en helt godtycklig linje? Vi utgår från samma, fast vi adderar en förskjutning/"offset" $P_0$. Detta kallas för en linje på *vektorform*
 $$L(t)=P_0+t\vec{r}$$
@@ -39,13 +54,19 @@ $\begin{cases}x=x_0+at\\y=y_0+bt\\z=z_0+ct\end{cases}$
 
 ## Skärande linjer
 Vi ska undersöka skärande linjer.
-Säg att vi har två linjer.
+Säg att vi har två linjer i 2D.
 Hur många lösningsfall kan vi ha?
-> Två linjer kan ha en av tre möjliga lösningsfall:
+> I 2D gäller att tre fall kan uppstå:
 > - En enda korsningspunkt
-> - Oändligt många
-> - Inga
+> - Oändligt många (parallella, samma linje)
+> - Inga (parallella)
+![alt text](image.png)
+
+> I 3D finns det ett **ytterligare** fall:
+> - **Skeva** linjer. Inga korsningspunkter, fast ej parallella linjer
+![alt text](image-1.png)
 
 ## Uppifter
+s.229-231
 
 ## Exit ticket
