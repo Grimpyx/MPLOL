@@ -14,9 +14,8 @@ s.228
 > Lösning:
 > Skalärprodukt kan användas för att beräkna vinkel mellan två vektorer.
 > $$\vec{a}\cdot \vec{b}=|\vec{a}||\vec{b}|\cos\theta \\
-\frac{\vec{a}\cdot \vec{b}}{|\vec{a}||\vec{b}|}=\cos\theta \\
-\theta = \arccos\bigg(\frac{\vec{a}\cdot \vec{b}}{|\vec{a}||\vec{b}|}\bigg)$$
-> ***
+\frac{\vec{a}\cdot \vec{b}}{|\vec{a}||\vec{b}|}=\cos\theta$$
+> Fortsätter...
 > $$\vec{a}\cdot \vec{b}=0\cdot \sqrt3 + (-2)\cdot 1 = -2\\
 |\vec{a}||\vec{b}| = \sqrt{\sqrt3^2+1^2} \sqrt{(-2)^2+\sqrt0^2}=2\cdot2 \\
 \Rightarrow\cos\theta=\frac{-2}{4}=-\frac{1}{2}$$
@@ -26,21 +25,19 @@ Vad är en linje?
 [Desmos](https://www.desmos.com/3d/hstza6ckqr)
 
 ## Vektorform
-Inleda med en enhetsvektor gånger parameter t
-
-Tänk er en riktningsvektor $\vec{r}$ som börjar i origo. Om vi multiplicerar med en parameter $t\in\mathbb{R}$ så har vi definierat *alla* punkter som ligger längs vektorn.
+Tänk er en riktningsvektor $\vec{r}$ som börjar i origo. Om vi multiplicerar med en parameter $t\in\mathbb{R}$ så har vi definierat *alla* punkter som ligger på linjen som pekar längs vektorn.
 $$L(t)=t\vec{r}$$
 > Exempel:
 > $$L(t)=t\begin{bmatrix}\frac{1}{\sqrt{2}}\\\frac{1}{\sqrt{2}}\\0\end{bmatrix}$$
 
-Problemet är att vi endast utgår från origo. Hur får vi en helt godtycklig linje? Vi utgår från samma, fast vi adderar en förskjutning/"offset" $P_0$. Detta kallas för en linje på *vektorform*
+Problemet är att vi endast utgår från origo. Hur får vi en helt godtycklig linje? Vi utgår från föregående, fast vi adderar en förskjutning/"offset"/startpunkt $P_0$. Detta kallas för en linje på *vektorform*.
 $$L(t)=P_0+t\vec{r}$$
 > Exempel:
 > $$L(t)=\begin{bmatrix}0\\1\\0\end{bmatrix}+t\begin{bmatrix}\frac{1}{\sqrt{2}}\\\frac{1}{\sqrt{2}}\\0\end{bmatrix}$$
 
 ## Parameterform
 
-$L(t)$ betyder att för ett givet $t$ så får vi en punkt $(x,y,z)$Säg att $P_0$ har komponenterna $x_0$, $y_0$, $z_0$, och riktningsvektorn $\vec{r}$ har komponenterna $a$, $b$, $c$.
+$L(t)$ betyder att för ett givet $t$ så får vi exakt en punkt $(x,y,z)$. Säg att $P_0$ har komponenterna $x_0$, $y_0$, $z_0$, och riktningsvektorn $\vec{r}$ har komponenterna $a$, $b$, $c$.
 Då går linjens ekvation att skriva som
 $$L(t)=\begin{bmatrix}x\\y\\z\end{bmatrix}=\begin{bmatrix}x_0\\y_0\\z_0\end{bmatrix}+t\begin{bmatrix}a\\b\\c\end{bmatrix}$$
 Detta ger oss tre olika ekvationer, vilket vi kallar en linje på *parameterform*.
@@ -66,7 +63,37 @@ Hur många lösningsfall kan vi ha?
 > - **Skeva** linjer. Inga korsningspunkter, fast ej parallella linjer
 ![alt text](image-1.png)
 
+Hur tar man fram en skärning algebraiskt?
+Först undersöker vi om linjerna är parallella för att eleminera enkla lösningar. Sen sätter vi $L_1(t)=L_2(t)$ och löser för $t$. 
+$$L_1(t)=\begin{cases}x=\frac{1}{\sqrt2}t \\ y=1+\frac{1}{\sqrt2}t \\ z=0\end{cases}$$
+
+$$L_2(t)=\begin{cases}x=3t \\ y=1+t \\ z=t\end{cases}$$
+> Vad är riktningsvektorerna?
+> $$\vec{r_1} = (\frac{1}{\sqrt2},\frac{1}{\sqrt2},0)$$
+>
+> $$\vec{r_2} = (3,1,1)$$
+>
+> $$\text{Ej parallella.}$$
+
+$$\begin{cases}\frac{1}{\sqrt2}t=3t \\ 1+\frac{1}{\sqrt2}t=1+t \\ 0=t\end{cases}$$
+
+Vi får att $t=0$ stämmer för alla ekvationer.
+$L_1(t)\Big|_{t=0}=L_2(t)\Big|_{t=0}=\begin{bmatrix}3\cdot0 \\ 1+0 \\ 0\end{bmatrix}=\begin{bmatrix}0 \\ 1 \\ 0\end{bmatrix}$
+
 ## Uppifter
 s.229-231
 
 ## Exit ticket
+Lämna in svar på lapp
+> $$L_1(t)=\begin{cases}x=5+3t \\ y+5-\frac{1}{2}t=0 \\ 1-z=0\end{cases}$$
+> $$L_2(t)=\begin{bmatrix}0\\2\\-\frac{1}{2}\end{bmatrix}t-\begin{bmatrix}1\\2\\0\end{bmatrix}$$
+$a) \quad \text{Vad är riktningsvektorerna }\vec{r_1} \text{ och } \vec{r_2}$
+$b) \quad \text{Skär linjerna varandra? Om ja, i vilken punkt?}$
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+$t=-2$
+$(-1,-6,1)$

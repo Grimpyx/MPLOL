@@ -6,7 +6,8 @@ names_encrypted = ["Mzxxfr","Otsfymfs","Qzpfx","Txhfw","Kfgnfs","Ji{ns","Ijssnx"
 # Encrypt/decrypt methods
 def encrypt_and_output_as_list(words):
     list = ["".join([chr(ord(c)+5) for c in word]) for word in words]
-    print(f"[\"{"\",\"".join(list)}\"]")
+    comboList="\",\"".join(list)
+    print(f"[\"{comboList}\"]")
 def decrypt(words):
     return ["".join([chr(ord(c)-5) for c in word]) for word in words]
 
