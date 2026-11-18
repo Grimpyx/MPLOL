@@ -7,6 +7,7 @@
 4. Punkt-normal form
 5. Allmän form
 6. Uppgifter
+7. Exit ticket
 
 ## Entry ticket
 > $$L_1(t)=\begin{cases}x=5+3t \\ y+5-\frac{1}{2}t=0 \\ 1-z=0\end{cases}$$
@@ -125,3 +126,5 @@ $$C=1 \Rightarrow A=2 \text{ och } B=-3$$
 
 ## Uppgifter
 s.235
+
+## Exit ticket
