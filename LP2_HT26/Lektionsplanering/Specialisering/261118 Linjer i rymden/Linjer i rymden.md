@@ -28,7 +28,7 @@ Vad är en linje?
 [Desmos](https://www.desmos.com/3d/hstza6ckqr)
 
 ## Vektorform
-Tänk er en riktningsvektor $\vec{r}$ som börjar i origo. Om vi multiplicerar med en parameter $t\in\mathbb{R}$ så har vi definierat *alla* punkter som ligger på linjen som pekar längs vektorn.
+Tänk er en riktningsvektor $\vec{r}$ som börjar i origo. Om vi multiplicerar med en parameter $t\in\mathbb{R}$ så har vi definierat *alla* punkter som ligger på linjen som pekar längs vektorn, i båda riktningarna.
 $$L(t)=t\vec{r}$$
 > Exempel:
 > $$L(t)=t\begin{bmatrix}\frac{1}{\sqrt{2}}\\\frac{1}{\sqrt{2}}\\0\end{bmatrix}$$
@@ -37,6 +37,12 @@ Problemet är att vi endast utgår från origo. Hur får vi en helt godtycklig l
 $$L(t)=P_0+t\vec{r}$$
 > Exempel:
 > $$L(t)=\begin{bmatrix}0\\1\\0\end{bmatrix}+t\begin{bmatrix}\frac{1}{\sqrt{2}}\\\frac{1}{\sqrt{2}}\\0\end{bmatrix}$$
+
+> Vad är skillnaden på linjerna
+> $$L_1(t)=\begin{bmatrix}0\\1\\0\end{bmatrix}+t\begin{bmatrix}\frac{1}{\sqrt{2}}\\\frac{1}{\sqrt{2}}\\0\end{bmatrix}$$
+> $$L_2(t)=\begin{bmatrix}1\\2\\0\end{bmatrix}+t\begin{bmatrix}1\\1\\0\end{bmatrix}$$
+
+$L_1(t)$ och $L_2(t)$ är *samma linje*. Riktningsvektorerna pekar åt samma håll, och har en gemensam punkt.
 
 ## Parameterform
 
@@ -70,13 +76,15 @@ Hur tar man fram en skärning algebraiskt?
 Först undersöker vi om linjerna är parallella för att eleminera enkla lösningar. Sen sätter vi $L_1(t)=L_2(t)$ och löser för $t$. 
 $$L_1(t)=\begin{cases}x=\frac{1}{\sqrt2}t \\ y=1+\frac{1}{\sqrt2}t \\ z=0\end{cases}$$
 
-$$L_2(t)=\begin{cases}x=3t \\ y=1+t \\ z=t\end{cases}$$
+$$L_2(s)=\begin{cases}x=3s \\ y=1+s \\ z=s\end{cases}$$
 > Vad är riktningsvektorerna?
 > $$\vec{r_1} = (\frac{1}{\sqrt2},\frac{1}{\sqrt2},0)$$
 >
 > $$\vec{r_2} = (3,1,1)$$
 >
 > $$\text{Ej parallella.}$$
+
+Då finns det en lösningär linjerna antingen 
 
 $$\begin{cases}\frac{1}{\sqrt2}t=3t \\ 1+\frac{1}{\sqrt2}t=1+t \\ 0=t\end{cases}$$
 
@@ -90,8 +98,8 @@ s.229-231
 Lämna in svar på lapp
 > $$L_1(t)=\begin{cases}x=5+3t \\ y+5-\frac{1}{2}t=0 \\ 1-z=0\end{cases}$$
 > $$L_2(t)=\begin{bmatrix}0\\2\\-\frac{1}{2}\end{bmatrix}t-\begin{bmatrix}1\\2\\0\end{bmatrix}$$
-$a) \quad \text{Vad är riktningsvektorerna }\vec{r_1} \text{ och } \vec{r_2}$
-$b) \quad \text{Skär linjerna varandra? Om ja, i vilken punkt?}$
+> $a) \quad \text{Vad är riktningsvektorerna }\vec{r_1} \text{ och } \vec{r_2}$
+> $b) \quad \text{Skär linjerna varandra? Om ja, i vilken punkt?}$
 
 
 

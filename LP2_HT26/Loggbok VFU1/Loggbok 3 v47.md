@@ -96,12 +96,54 @@ Handladaren avbröt arbetsstunden för att gå igenom trigonometri en extra gån
 **Fokusområde:** Skillnad mellan LBS och Hulebäck
 Precis som på LBS har de på Hulebäck ett provschema. Skillnaden i innehåll var inte särskilt annorlunda. Hade förväntat mig om att han skulle ta upp något gällande hulekvällarna nästa vecka. Syftet med mentorstiderna är att ge eleverna information. Provschemat finns för att säga till så alla elever är med på inlämningar och prov, och för att säga till så lärare inte bokar in mer än två examinationer på en vecka.
 
+#### AU 261118 Onsdag Ma1c Sannolikhet
+**Fokusområde:** lektionsuppbyggnad
+(också viktigt att notera brister hos elever här så vi kan ta det i bättre detalj imorgon på repetitionslektionen)
+HJ inleder med att tvinga bestämda platser, bort med kortlekar och datorer.
+HJ har med sig lektionsplanering i form av handskrivna anteckningar.
+
+Inleder med tabell över slumpförsök och utfall.
+Typ tärning har 6 utfall, singla slant har två.
+
+Definierar händelse: typ "Slå tärning, och få udda tal". Visar *klassisk sannolikhet*. $P(H)$
+
+Visar att $0\le P(H)\le 1$
+
+Visar upprepande sannolikhet, uppmjukande inför nästa lektion.
+
+Går igenom *relativ frekvens*, att det är skillnad på det och sannolikhet.
+
+Involverar eleverna med en fråga (~~E~~PA).
+
+Hur tänker gällande sannolikhet i upprepade slumpförsök? HJ visar *graf* och *träddiagram*. Lägger en del tid på grafen, då boken gillar att visa två tärningskast på det sättet.
+
+Sedan uppgifter.
+
+"Exit ticket": monty hall proglemet. Tre dörrar, välj en, programledare visar vart en get finns och frågar om den tävlande vill byta?
+
+> Idéer att ta upp imorgon
+> Väntevärde: $P(H) \cdot \text{Antal utfall}$
+> 
+
 #### AU ÅÅMMDD VECKODAG KURS OMRÅDE
 **Fokusområde:** 
 Brödtext
 
 ### Egen undervisning
-#### EU ÅÅMMDD VECKODAG KURS OMRÅDE
+#### EU 261118 Onsdag MaSpec Linjer i rymden (Inspelning 1)
+Lektionen blev *väldigt* lång, jämfört med vanliga lektioner. Direkt efter föreläsningen fick de en paus på 7 minuter. Jag hade gjort ett kritiskt innehållsmässigt fel: när jag satte $L_1(t)=L_2(t)$ så utgick jag från att $t$ alltid skulle vara detsamma för båda linjerna. Självklart är det inte så. Jag rättade delar på tavlan och visade hur det faktiskt skulle bli efter rasten (se uppdaterade lektionsanteckningar). Det råkade råkade bara bli att $t=s=0$.
+
+Kändes som att jag fick bra kontakt med alla elever.
+
+Under lektionen så synliggjorde jag att jag tränat på allas namn, och en av eleverna berättade senare för mig att hen kändes sedd. Jag kommer själv ihåg hur jag kände när ML hade lärt sig alla namn.
+
+#### EU 261119 Torsdag MaSpec Plan i rymden
+Brödtext
+
+#### EU 261119 Torsdag Ma1c Repetitionslektion
+Brödtext
+
+#### EU 261120 Fredag Ma1c Träddiagram
 Brödtext
 
 ###### 💡 Reflektionsmall egen lektion
