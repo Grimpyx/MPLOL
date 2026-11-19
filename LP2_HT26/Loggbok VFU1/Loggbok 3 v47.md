@@ -1,8 +1,10 @@
-# Loggbok V#
+# Loggbok V47
 #### Tid på skolan
 | Dag | Start | Slut | Tid (min) |
 |-----|-------|------|-----------|
 |Mån|8:50|16:00|430|
+|Ons|8:30|15:15|405|
+|Tor|8:30|15:15|405|
 
 #### Auskultationer
 | Dag | Kurs | Område | Lärare | Tid (min) |
@@ -11,18 +13,17 @@
 |Mån|Teknik n1|Mimic-modellering|JL|85|
 |Mån|Ma1c|Repetition|HJ|90|
 |Mån|Mentorstid|-|HJ|45|
-||||||
-||||||
-||||||
-||||||
+|Ons|Ma1c|Sannolikhet intro|HJ|90|
+|Tors|AI nivå 1|Prov|HJ|20|
+|Tors|MaForts1c|Tillämpningar & problemlösning|AH&ET|80|
 
 #### Egna lektioner
 | Dag | Kurs | Område | Tid (min) |
 |-----|------|--------|-----------|
-|||||
-|||||
-|||||
-|||||
+|Ons|MaSpec|Linjer i rymden|90|
+|Tors|Ma1c||90|
+|Tors|MaSpec|Plan i rymden|90|
+|Fre|Ma1c|Komplementhändelser|90|
 |||||
 
 ## Reflektioner
@@ -125,9 +126,44 @@ Sedan uppgifter.
 > Väntevärde: $P(H) \cdot \text{Antal utfall}$
 > 
 
-#### AU ÅÅMMDD VECKODAG KURS OMRÅDE
+#### AU 261119 Torsdag AI nivå 1 Prov
+**Fokusområde:** Uppstart vid prov 
+Inget konstigt egentligen, vet inte vad jag förväntade mig riktigt.
+Ställer i ordning salen med elevernas hjälp.
+Enda värt att notera procedurmässigt är att materialet delas ut först, och sedan svarspappret.
+
+**Provets uppbyggnad:**
+30 flervalsfrågor, med 5 öppna frågor med fritext/resonemang. Ingen poänggräns visas på provet.
+30p+20p=50p.
+Provet är inte det enda examinationsmomentet, utan det finns praktiska moment med inlämningar och även EoAI.
+
+#### AU 261119 Torsdag Ma fortsättning 1c Tillämpning av derivata (VFU-elev(er) AH & ET)
 **Fokusområde:** 
-Brödtext
+Mål och agenda på projektorn.
+> Jag brukar vara ganska bra på att lägga upp agendan, men målet hade jag i början på VFU:n men har slutat göra.
+Logaritmlagarna.
+
+Exempel på tavlan för uppfriskning kring det de gick igenom senast.
+Repeterar gammalt exempel $(e^x)^2\cdot e^x=64$. Repeterar potenslagar och logaritmlagar.
+
+Stor andel av eleverna antecknar! Borde jag pusha mina elever mer att anteckna? Kanske... jag vet att det är bra och viktigt, men något i mig vill att eleverna själva ska ta det ansvaret.
+
+Tycker att de exempel som ges är ganska svåra, men inte alldeles för svåra. Det blir ännu lättare när de ger ut formen för $a^{kx}$
+EPA på dessa exempel (alla tre delar).
+
+ET säger "termen innehåller ingen x, så derivatan blir 0" men jag tycker det är lite farligt, eftersom vi kan ha olika symboler variabeln.
+
+En elev fick en skrattattack. ET bara kör igenom exemplet, men jag hade nog uppmärksammat skrattattacken, eftersom jag vet att många andra hakar upp sig och inte kan fokusera.
+
+Konstant används som "inte variabeln", även när det tekniskt sätt faktiskt är en koefficient. Det är kanske ändå ett okej sätt att använda ordet på?
+
+8 slumpade grupper med varsin whitebardtavla. Lite svårt logistiskt med trasiga pennor och svårt för vissa grupper att se tavlan. Vissa grupper har en eller några som gör allt. Några ville inte vara med och gick iväg.
+
+Det gavs ingen paus. Märktes tydligt på att eleverna blev ofokuserade i slutet, särskilt när de snabbaste blev klara.
+
+Tyckte det var roligt att AH och ET bröt mot det traditionella mönstret.
+
+Många fler grupper kunde ta sig an uppgifterna än vad jag trodde. Har jag stagnerat?? Duktig klass?
 
 ### Egen undervisning
 #### EU 261118 Onsdag MaSpec Linjer i rymden (Inspelning 1)
@@ -137,13 +173,17 @@ Kändes som att jag fick bra kontakt med alla elever.
 
 Under lektionen så synliggjorde jag att jag tränat på allas namn, och en av eleverna berättade senare för mig att hen kändes sedd. Jag kommer själv ihåg hur jag kände när ML hade lärt sig alla namn.
 
+#### EU 261119 Torsdag Ma1c Repetitionslektion (Digitalt verktyg)
+Mitt mål med denna lektionen var att använda mer matematiska noteringar. Till exempel använde jag betingad sannolikhet, uttryckte variabler med subskript, approximeringar. Min tanke är att i framtiden kanske få tavlan att återspegla högskolan: mycket ``def`` och ``sats`` typ.
+
+Testade också att involvera live-demonstrationer i python
+
 #### EU 261119 Torsdag MaSpec Plan i rymden
-Brödtext
+Lektionen gick bra. Har insett att jag inte behöver vara rädd för att hålla långa föreläsningar, så länge det är mycket elevaktivitet och möjlighet till pauser. Dessutom gillar jag formatet jag kommit på: börjar med en kluring på tidigare område i EPA. Dagens auskultation fick mig intresserad av att testa nya lektionsformat där det inte ens finns en arbetsstund. Jag faller alltid tillbaka till det traditionella formatet.
 
-#### EU 261119 Torsdag Ma1c Repetitionslektion
-Brödtext
+Jag råkar vara ganska ok på att måla plan på tavlan
 
-#### EU 261120 Fredag Ma1c Träddiagram
+#### EU 261120 Fredag Ma1c Komplementhändelser
 Brödtext
 
 ###### 💡 Reflektionsmall egen lektion

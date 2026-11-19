@@ -1,5 +1,6 @@
 # Sannolikhet repetition
 s.284-292
+8:05-9:45
 
 > Note: jag har uppfattat det som att ni har bra koll på sannolikhet, så jag testar att visa saker på ett mer matematiskt sätt, likt så det görs på högskolan.
 
@@ -17,18 +18,27 @@ s.284-292
 >
 > $\text{Svar: 50 N}$
 
-## Klassisk sannolikhet
+## Klassisk sannolikhet & väntevärde
 $$P(H)=\frac{\text{\# gynnsamma utfall}}{\text{\# totala möjliga utfall}}$$
+Detta har ett namn: *klassisk sannolikhet*. Skriver vi om det får vi följande:
+
+$$\text{\# gynnsamma utfall}=P(H)\cdot \text{\# totala möjliga utfall}$$ 
+
+Detta kan man använda för att beräkna något som liknar "om vi kastar $6000$ tärningar, hur många kast kommer visa 1:a? Jo, $\frac{1}{6}\cdot 6000=1000$" Detta är ett slags *väntevärde*, eller förväntat tal.
 
 ## Relativ frekvens
 $$f_R(H)=\frac{\text{\# gynnsamma observationer}}{\text{\# totalt antal observationer}}$$
 > Vad skiljer Klassisk sannolikhet och Relativ frekvens?
 > Det handlar om experiment och observationer.
 
+**Visa programmeringsdemot, där för stora N leder till att** $f_R(H)\rightarrow P(H)$
+
 Givet väldigt många observationer så kan $f_R$ användas för att uppskatta sannolikhet. Den relativa frekvensen blir då en så kallad *empirisk sannolikhet*.
 $$f_R(H) = P_E(H) \approx P(H)$$
 
 Den första likheten gäller endast om det är tillräckligt många observationer.
+
+Tänk tärningskast. Vi kastar fyra gånger och får 6:a två gånger. $f_R(\text{6:a})=\frac{2}{4}=\frac{1}{2}$. Men vi vet ju att $P(\text{6:a})=\frac{1}{6}$
 
 ## Slumpförsök i flera steg
 > När man räknar slump i flera steg, när använder man addition och när använder man multiplikation?

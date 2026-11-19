@@ -1,4 +1,5 @@
 # Plan i rymden
+10:10-11:35
 
 ## Agenda
 1. Entry ticket
@@ -18,11 +19,12 @@
 ## Några speciella plan
 I 2D kommer vi ihåg att ekvationerna för x- och y-axeln är
 $$\text{x-axeln: } \quad y=0 \\ \text{y-axeln: } \quad x=0$$
+
 Vill vi flytta till exempel x-axeln upp fyra steg, så har den ekvationen $y=4$.
 
 ![alt text](image.png)
 
-För att definiera plan kan vi göra likadant. Ekvationer för alla tre basic plan:
+För att definiera plan kan vi göra likadant, och bara lägga till en koordinataxel. Ekvationer för alla tre basic plan:
 $$\text{zy-planet: } \quad x=0 \\ \text{xz-planet: } \quad y=0 \\ \text{xy-planet: } \quad z=0 $$
 
 ![alt text](image-2.png)
@@ -43,14 +45,14 @@ Det smidigaste sättet att definiera ett plan är med dess normalvektor.
 
 ![alt text](image-1.png)
 
-Om vi har ett plan med normalvektor $\vec{n}$ så vet vi att följande gäller:
+Om vi har ett plan med **nollskild** normalvektor $\vec{n}$ så vet vi att följande gäller:
 - En **specifik** punkt där vi vill att planet ska utgå från är $P_0=(x_0,y_0,z_0)$
 - En **godtycklig** punkt i planet är $P=(x,y,z)$
 - Vektorn som leder från $P_0$ till $P$ skrivs enligt "slut-minus-start":
 $$\vec{P_0P}=P-P_0=\begin{bmatrix}x-x_0 \\ y-y_0 \\ z-z_0\end{bmatrix}$$
 - $\vec{n}$ och $\vec{P_0P}$ är **orthogonala**
 
-Det betyder att förljande samband **måste** stämma för alla punkter i det godtyckliga planet:
+Det betyder att förljande samband **måste** stämma för alla punkter som befinner sig i det godtyckliga planet:
 $$\vec{n} \cdot \vec{P_0P}=0$$
 
 $$\vec{n} \cdot \begin{bmatrix}x-x_0 \\ y-y_0 \\ z-z_0\end{bmatrix}=0$$
@@ -61,10 +63,12 @@ $$\vec{n} \cdot \begin{bmatrix}x-x_0 \\ y-y_0 \\ z-z_0\end{bmatrix}=0$$
 > $$\vec{n} \cdot \begin{bmatrix}x-x_0 \\ y-y_0 \\ z-z_0\end{bmatrix}=\begin{bmatrix}1\\0\\0\end{bmatrix} \cdot \begin{bmatrix}x-0\\y-0\\z-0\end{bmatrix}=x=0$$
 
 ## Punkt-normal form
-Låt oss ta ekvationen för det godtyckliga planet och skriv ut vad dene blir. Låt oss skriva normalvektorn som $\vec{n}=(A,B,C)$.
+Låt oss ta ekvationen för det godtyckliga planet och skriv ut vad denne blir. Låt oss skriva normalvektorn som $\vec{n}=(A,B,C)$.
 $$\vec{n} \cdot \begin{bmatrix}x-x_0 \\ y-y_0 \\ z-z_0\end{bmatrix}= \begin{bmatrix}A\\B\\C\end{bmatrix} \cdot \begin{bmatrix}x-x_0 \\ y-y_0 \\ z-z_0\end{bmatrix}=0$$
 
 $$A(x-x_0)+B(y-y_0)+C(z-z_0)=0$$
+
+Detta är punkt-normal form
 
 ## Allmän form
 
@@ -83,7 +87,7 @@ $$\pi: \quad x+5y-3z+17=0$$
 > a) Vad är planets normalvektor?
 > b) Ange ekvationen för ett annat unikt plan som är parallellt med planet $\pi$.
 >
-> *Vad gör D?*
+> *Vad gör egentligen D?*
 
 > Exempel 2: 5319 i boken
 > Vi har ett plan som innehåller tre punkter:
@@ -106,7 +110,7 @@ A(3-1)+B(2-1)+C(4-5)=0
 > $$\begin{cases}
 -3A-5B-9C=0 \\
 2A+B-C=0
-\end{cases} \begin{cases}
+\end{cases} \quad \quad \begin{cases}
 3A+5B+9C=0 \\
 B=C-2A
 \end{cases}$$
