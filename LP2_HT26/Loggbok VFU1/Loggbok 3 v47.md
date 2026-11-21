@@ -5,6 +5,7 @@
 |Mån|8:50|16:00|430|
 |Ons|8:30|15:15|405|
 |Tor|8:30|15:15|405|
+|Fre|8:30|12:15|225|
 
 #### Auskultationer
 | Dag | Kurs | Område | Lärare | Tid (min) |
@@ -21,7 +22,7 @@
 | Dag | Kurs | Område | Tid (min) |
 |-----|------|--------|-----------|
 |Ons|MaSpec|Linjer i rymden|90|
-|Tors|Ma1c||90|
+|Tors|Ma1c|Beroende händelser|90|
 |Tors|MaSpec|Plan i rymden|90|
 |Fre|Ma1c|Komplementhändelser|90|
 |||||
@@ -138,7 +139,8 @@ Enda värt att notera procedurmässigt är att materialet delas ut först, och s
 Provet är inte det enda examinationsmomentet, utan det finns praktiska moment med inlämningar och även EoAI.
 
 #### AU 261119 Torsdag Ma fortsättning 1c Tillämpning av derivata (VFU-elev(er) AH & ET)
-**Fokusområde:** 
+**Fokusområde:** Hur kan en parlektion se ut?
+
 Mål och agenda på projektorn.
 > Jag brukar vara ganska bra på att lägga upp agendan, men målet hade jag i början på VFU:n men har slutat göra.
 Logaritmlagarna.
@@ -163,7 +165,7 @@ Det gavs ingen paus. Märktes tydligt på att eleverna blev ofokuserade i slutet
 
 Tyckte det var roligt att AH och ET bröt mot det traditionella mönstret.
 
-Många fler grupper kunde ta sig an uppgifterna än vad jag trodde. Har jag stagnerat?? Duktig klass?
+Många fler grupper kunde ta sig an uppgifterna än vad jag trodde. Duktig klass?
 
 ### Egen undervisning
 #### EU 261118 Onsdag MaSpec Linjer i rymden (Inspelning 1)
@@ -181,10 +183,24 @@ Testade också att involvera live-demonstrationer i python
 #### EU 261119 Torsdag MaSpec Plan i rymden
 Lektionen gick bra. Har insett att jag inte behöver vara rädd för att hålla långa föreläsningar, så länge det är mycket elevaktivitet och möjlighet till pauser. Dessutom gillar jag formatet jag kommit på: börjar med en kluring på tidigare område i EPA. Dagens auskultation fick mig intresserad av att testa nya lektionsformat där det inte ens finns en arbetsstund. Jag faller alltid tillbaka till det traditionella formatet.
 
-Jag råkar vara ganska ok på att måla plan på tavlan
+Jag råkar vara ganska ok på att måla plan på tavlan.
+
+Jag hade egentligen en exit ticket för på lektionen om linjer, men jag sparade den och körde den som introducerande uppgift idag. Det gav mig en chans att visa hur man faktiskt gjorde skärningsproblem rätt (och också förtydliga när det är skeva linjer), för de som var sena tillbaka från rasten förra lektionen. 
 
 #### EU 261120 Fredag Ma1c Komplementhändelser
-Brödtext
+Jag designade lektionen utifrån ett Fortnite-exempel som vad jag uppfattat borde resonera med många elever. Jag var ändå noga med att förklara då det nog inte är alla som har samma "kulturella" bakgrund. För att introducera komplementhändelserna har jag fått tillåtelse av en elev att använda hen i ett exempel om schack.
+
+Eleverna uppskattade Pirate Token-temat och jag upplevde att en stor andel av eleverna förstod hur man använde komplementhändelser. En grej dock är att det hade varit bra att ha fler exempel på komplementhändelser.
+
+Testade att *inte* samla in telefoner, för att se effekten. Det kan omöjligt vara den enda faktorn, men jisses vad stökig arbetsstunden blev. Mycket värre än vanligt. Några orsaker:
+- jag glömde ge rast (misstänkt primär orsak) 
+- datorer, telefoner
+- fredag
+- salen är möblerad med öar som uppmuntrar snack
+
+Tänker berätta för eleverna nästa lektion att lektionen var alldeles för stökig och att jag framöver, på mina lektioner, kommer tvinga handledare att sätta 10 minuter frånvaro **varje gång jag ser något fel uppe på en skärm**. Spelar ingen roll vad handledaren säger. Kommer också samla in telefoner.
+
+Det hela tar emot ganska mycket eftersom det känns som att jag tagit några steg tillbaka i det område jag anstränger mig extra mycket på att förbättra. Å andra sidan är jag helt med på att detta är en del av processen.
 
 ###### 💡 Reflektionsmall egen lektion
 *➕ Beskriv det som var **positivt**, bra, konstruktivt med din lektion och ditt lektionsupplägg eller i den situation som har inträffat.*

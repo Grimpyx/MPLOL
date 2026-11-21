@@ -1,27 +1,27 @@
 # Komplementhändelser
 s.293-302
+9:45-11:20
 
 ## Agenda
 1. Uppvärmning
-2. Träddiagram
-3. Beroende och oberoende händelser
-4. Komplementhändelser
-5. Pirate token
+2. Komplementhändelser
+3. Pirate token
+4. Uppgifter
 
 ## Uppvärmning
 > I Fortnite kan man, med enorm tur, få en *pirate token* i en kista. Varje kista har en chans på $137500$ att innehålla en pirate token.
 > Vad är sannolikhet att inte få en enda pirate token på 10000 kistor?
 > $$P(\text{Ej få pirate token})=\frac{137499}{137500}$$
 >
-> Beroende eller oberoende händelser?
-> $$\begin{aligned}P(\text{Ej få pirate token på 10000 kistor})=\\=P(\text{Ej få}) \cdot P(\text{Ej få}) \cdot ... \cdot P(\text{Ej få}) =\\=\{P(\text{Ej få})\text{ 10000 gånger}\}=\Big(\frac{137499}{137500}\Big)^{10000}\end{aligned}$$
+> Om vi öppnar en till låda, är det händelsen beroende eller oberoende?
+> $$P(\text{Ej få pirate token på 10000 kistor})=\\=P(\text{Ej få}) \cdot P(\text{Ej få}) \cdot ... \cdot P(\text{Ej få}) =\\=\{P(\text{Ej få})\text{ 10000 gånger}\}=\Big(\frac{137499}{137500}\Big)^{10000}\approx \\\approx 0.9299 \Rightarrow P(...)\approx 93\%$$
 
 ## Komplementhändelse
 Inledande uppgift som jag inte tror ni kan lösa.
 
 Jag har kollat på varenda match schack som Elliot någonsin spelat. Jag har beräknad den relativa frekvensen, hans winrate, till $57\%$. Vi låter detta approximera hans faktiska winrate.
 
-Vad är sannolikheten att Elliot vinner minst en gång på 5 matcher?
+Vad är sannolikheten att Elliot vinner **minst en gång på 5 matcher**?
 
 Ett sätt att lösa:
 Vi summerar sannolikheterna för alla fall som leder till minst en vinst.
@@ -66,4 +66,5 @@ $$P(H^C)=\frac{137499}{137500}^{20}$$
 $$P(H)=1-P(H^C)=1-\frac{137499}{137500}^{20}=0.0001454 \approx 0.0145\%=145 \text{ ppm}$$
 [Pirate token desmos](https://www.desmos.com/calculator/cjd4gwnbnq)
 
-
+## Uppgifter
+s.302 eller där ni slutade igår.
