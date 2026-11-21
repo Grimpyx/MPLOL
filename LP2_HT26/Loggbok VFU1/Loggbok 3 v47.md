@@ -25,7 +25,6 @@
 |Tors|Ma1c|Beroende händelser|90|
 |Tors|MaSpec|Plan i rymden|90|
 |Fre|Ma1c|Komplementhändelser|90|
-|||||
 
 ## Reflektioner
 ### Auskultationer
@@ -175,10 +174,12 @@ Kändes som att jag fick bra kontakt med alla elever.
 
 Under lektionen så synliggjorde jag att jag tränat på allas namn, och en av eleverna berättade senare för mig att hen kändes sedd. Jag kommer själv ihåg hur jag kände när ML hade lärt sig alla namn.
 
-#### EU 261119 Torsdag Ma1c Repetitionslektion (Digitalt verktyg)
+#### EU 261119 Torsdag Ma1c Beroende och oberoende händelser (Digitalt verktyg (igen))
 Mitt mål med denna lektionen var att använda mer matematiska noteringar. Till exempel använde jag betingad sannolikhet, uttryckte variabler med subskript, approximeringar. Min tanke är att i framtiden kanske få tavlan att återspegla högskolan: mycket ``def`` och ``sats`` typ.
 
-Testade också att involvera live-demonstrationer i python
+Testade också att involvera live-demonstrationer i python. Tyckte verkligen demot illustrerade skillnaden på *relativ frekvens* och *klassisk sannolikhet*.
+
+Gav eleverna en exit ticket som jag samlade in för att använda i uppgiften *responsiv undervisning*.
 
 #### EU 261119 Torsdag MaSpec Plan i rymden
 Lektionen gick bra. Har insett att jag inte behöver vara rädd för att hålla långa föreläsningar, så länge det är mycket elevaktivitet och möjlighet till pauser. Dessutom gillar jag formatet jag kommit på: börjar med en kluring på tidigare område i EPA. Dagens auskultation fick mig intresserad av att testa nya lektionsformat där det inte ens finns en arbetsstund. Jag faller alltid tillbaka till det traditionella formatet.
