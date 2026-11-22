@@ -1,4 +1,11 @@
 # Lån, ränta, amortering
+**Sidorna:** 307-315
+***PRATA MED HANDLEDARE OM VAD SOM SKA INGÅ HÄR***
+
+Sidorna omfattar:
+- Lån, ränta, amortering
+- Introduktion till kalkylprogram
+- Lån, ränta, amortering, i kalkylprogram
 
 ## Viktiga begrepp
 *Lånebelopp* - När man lånar pengar är detta hur mycket pengar man långar. Tar man lån så är man *låntagare*.
