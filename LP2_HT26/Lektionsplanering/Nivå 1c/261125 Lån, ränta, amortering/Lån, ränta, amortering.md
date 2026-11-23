@@ -60,7 +60,7 @@ $\text{Cell B4}$ betyder *kolumn* B, *rad* 4.
 
 ##### 1. Öppna geogebras spreadsheet-läge (Geogebra Classic)
 
-![alt text](image.png)!
+![alt text](image.png)
 eller
 ![alt text](image-12.png)
 
