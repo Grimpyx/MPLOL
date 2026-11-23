@@ -43,9 +43,20 @@ vid amortering, så minskar också räntan. Ett lån är alltså dyrare i börja
 > $\text{a})$ Hur mycket betalar han i ränta första månaden? $2\% \Rightarrow 0.02\cdot 80000 = 1600$
 > $\text{b})$ Hur mycket betalar han i ränta andra månaden? Samma! Lånebeloppet är oförändrat. 
 > $\text{c})$ Om Nils amorterar $2000 \text{ kr}$ per månad, hur mycket betalar han totalt in till banken den tredje månaden?
-> $80000-2\cdot2000=76000 \Rightarrow \text{Ränta mån. 3: } 76000 \cdot 0.02 = 1520$ 
-> |Månad|Lånebelopp|Ränta|Amortering|
-> |-----|----------|-----|----------|
+> |Månad|Lånebelopp|Ränta|Amortering|Att betala|
+> |-----|----------|-----|----------|----------|
+> |1|80000|1600|2000|3600|
+> |2|78000|$0.02\cdot78000=1560$|2000|3560|
+> |3|76000|$0.02\cdot76000=1520$|2000|3520|
+
+Som ni kan misstänka blir detta ganska många upprepande beräkningar.
+
+## Intro till kalkylprogram
+
+Hur mycket kostar lånet för Nils, totalt över hela avbetalningsperioden? Här kommer kalkylprogram fram.
+
+|Månad|Lånebelopp|Ränta|Amortering|Att betala|
+|-----|----------|-----|----------|----------|
 
 
 ## Uppgifter
