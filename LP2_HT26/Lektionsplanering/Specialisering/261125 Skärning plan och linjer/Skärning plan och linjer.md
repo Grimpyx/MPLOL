@@ -49,7 +49,7 @@ $$\begin{aligned}4(3+t)+(4-2t)+2(1+2t)&=12 \\
 6t&=-6 \\ t&=-1\end{aligned}$$
 $t=-1$ satisfierar alltså ekvationen, vilket betyder att de har en punkt gemensamt i $t=-1 \Rightarrow P=(2,6,-1)$.
 
-> Vad kan vi sägaom planet $\pi$ och linjen $$L_2(t)=\begin{bmatrix}2\\1\\3\end{bmatrix}-\begin{bmatrix}-1\\2\\1\end{bmatrix}t$$
+> Vad kan vi säga om planet $\pi$ och linjen $$L_2(t)=\begin{bmatrix}2\\1\\3\end{bmatrix}-\begin{bmatrix}-1\\2\\1\end{bmatrix}t$$
 
 $x=2+t$, $y=1-2t$, och $z=3-t$.
 Insatt i planets ekvation får vi
