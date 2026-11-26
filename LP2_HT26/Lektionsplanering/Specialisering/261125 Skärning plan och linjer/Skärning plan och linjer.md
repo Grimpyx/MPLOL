@@ -8,13 +8,13 @@
 3. Uppgifter
 
 ## Uppvärmning
-Det nya materialet är enkelt så jag börjar med att ge er en uppgift på plan.
+Börjar med att ge er en uppgift på planets ekvation.
 
 > Undersök om  följande fyra punkter ligger i samma plan. Om ja, vad är planets ekvation?
 > $$p_1=\begin{bmatrix}0\\1\\1\end{bmatrix} \quad p_2=\begin{bmatrix}2\\1\\3\end{bmatrix} \quad p_3=\begin{bmatrix}3\\1\\0\end{bmatrix} \quad p_4=\begin{bmatrix}4\\1\\-5\end{bmatrix}$$
 > $\text{Lösning:}$
 > För ett plan behöver vi en utgångspunkt. Vi väljer $P_1$ som utgångspunkt.
-> Nu stället vi upp ett ekvationssystem med de andra tre punkterna insatta i planets *punkt-normal form*.
+> Nu ställer vi upp ett ekvationssystem med de andra tre punkterna insatta i planets *punkt-normal form*.
 > $$\begin{cases}A(2-0)+B(1-1)+C(3-1)=0 \\
 A(3-0)+B(1-1)+C(0-1)=0 \\
 A(4-0)+B(1-1)+C(-4-1)=0 \end{cases}$$
@@ -23,7 +23,7 @@ A(4-0)+B(1-1)+C(-4-1)=0 \end{cases}$$
 3A-C=0 \\
 4A+-5C=0 \end{cases}$$
 > Från ekvationerna får vi att $A=C=0$.
-> Det kan se ut som att $B=0$ också och att vi då får en normalvektor = $\textbf{0}$, men i ekvationerna *försvinner $B$*. Det betyder att $B$ kan vara vilket tal som helst. Vi väljer $B=1$ för enkelhetens skull.
+> Det kan se ut som att $B=0$, men då hade normalvektorn varit nollvektorn. Vad som faktiskt händer är att i ekvationerna *försvinner $B$*. Det betyder att $B$ kan vara vilket tal som helst. Vi väljer $B=1$ för enkelhetens skull.
 > Planets ekvation:
 > $$0(x-0)+1(y-1)+0(z-1)=0 \\ \Rightarrow y=1$$
 >
@@ -74,6 +74,7 @@ $$\vec{r}_2 = \vec{r}_3 \Rightarrow \vec{n}_\pi \cdot \vec{r}_3=0$$
 
 ## Uppgifter
 Repetera linjer och plan tills ni känner er redo att räkna på skärning mellan linjer och plan: s. 237.
+Vill ni utmanas, kika på blandade uppgifter s.242-243
 
 ## Exit ticket
 > Ett plan $\pi$ går igenom punkterna $P_1=(0,0,8)$ och $P_2=(4,4,0)$. Bestäm planets ekvation så att det blir vinkelrätt mot planet 

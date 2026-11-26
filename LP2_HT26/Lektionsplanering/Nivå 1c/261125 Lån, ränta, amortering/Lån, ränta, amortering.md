@@ -11,7 +11,7 @@ Sidorna omfattar:
 Se [handout](/LP2_HT26/Lektionsplanering/Nivå%201c/261125%20Lån,%20ränta,%20amortering/Responsiv%20undervisning.md).
 
 ## Nya ordningsregler
-Fredagslektionen var *stökig*. Jag är inspirerad av er kära lärare Jonatan. Ser jag någon spela, så har hen säkert spelat ett bra tag. Så jag skriver upp den personen på en lista, och den får 10 minuter frånvaro för varje regelbrott.
+Fredagslektionen var *stökig*. Jag är inspirerad av er kära lärare Jonatan. Ser jag någon spela, så har hen säkert spelat ett bra tag. Så jag skriver upp den personen på en lista, och den får 10 minuter frånvaro för varje regelbrott. Påminn mig om raster.
 
 ## Viktiga begrepp
 Hur fungerar ett lån? Jo, vi får en summa pengar direkt och ska sedan betala av det varje månad över en period. Summan man betalar av varje månad kallas för **amortering**.
@@ -49,7 +49,7 @@ vid amortering, så minskar också räntan. Ett lån är alltså dyrare i börja
 > |$2$|$78000$|$0.02\cdot78000=1560$|$2000$|$3560$|
 > |$3$|$76000$|$0.02\cdot76000=1520$|$2000$|$3520$|
 
-Som ni kan misstänka blir detta ganska många upprepande beräkningar.
+Hur går vi till väga om vi vill beräkna kostnaden för lånet? Kostnaden är hur mycket man totalt betalat i ränta under avbetalningsperioden. Det blir många upprepande beräkningar
 
 ## Intro till kalkylprogram
 

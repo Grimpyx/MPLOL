@@ -64,3 +64,8 @@ Följa en lärare för en dag?
 Ha **mål** för auskultationen. Vad håller jag utkik efter? Fokuserar jag på elevinteraktion? Lektionsupplägg? Uppstart?
 
 Ex: Henrik - AI, vs MaNivå1, vs MaSpec?
+
+
+#### Arbetslagsmöten
+Är med hela tisdagen v49
+NP är tisdag v51, men de kommer nog ha ett kort möte på eftermiddagen direkt efter.
